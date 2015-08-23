@@ -1,0 +1,777 @@
+[0 1; 1 0], polynomial color.
+0531_dangerous bushes (29).jpeg
+0627_dangerous bushes (19).jpeg
+0881_dangerous bushes (52).jpeg
+1103_dangerous water (186).jpeg
+1658_dangerous water (141).jpeg
+1890_dangerous grass bushes 0.jpeg
+2393_dangerous bushes (14).jpeg
+2727_dangerous water (358).jpeg
+2899_dangerous water (324).jpeg
+3314_dangerous bushes (56).jpeg
+3138_dangerous water (25).jpeg
+3325_dangerous water (57).jpeg
+3624_dangerous bushes (59).jpeg
+3913_dangerous water (182).jpeg
+4188_dangerous bushes (61).jpeg
+4321_dangerous water (330).jpeg
+4359_dangerous water (239).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+4839_dangerous water (335).jpeg
+4849_dangerous bushes (17).jpeg
+4863_dangerous bushes (62).jpeg
+5214_dangerous water (444).jpeg
+5285_dangerous grass water (16).jpeg
+5351_dangerous bushes (69).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+6014_dangerous bushes (71).jpeg
+7052_dangerous bushes (58).jpeg
+7112_dangerous water (190).jpeg
+7532_dangerous bushes (16).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+6196_dangerous bushes (7).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+8071_dangerous grass water (18).jpeg
+8214_dangerous bushes (2).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9410_dangerous water (26).jpeg
+9546_dangerous bushes grass 0.jpeg
+9891_dangerous bushes (57).jpeg
+9901_dangerous water (462).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 82.009087 seconds.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706           0           0           0           0           0           0           0           0           0
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6             0             0             0             0             0             0             0             0             0 FP: 4.6           0           0           0           0           0           0           0           0           0
+TN: 63.5            0            0            0            0            0            0            0            0            0 FN: 1.3           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], polynomial color.
+0531_dangerous bushes (29).jpeg
+0627_dangerous bushes (19).jpeg
+0881_dangerous bushes (52).jpeg
+1103_dangerous water (186).jpeg
+1658_dangerous water (141).jpeg
+1890_dangerous grass bushes 0.jpeg
+2393_dangerous bushes (14).jpeg
+2727_dangerous water (358).jpeg
+2899_dangerous water (324).jpeg
+3314_dangerous bushes (56).jpeg
+3138_dangerous water (25).jpeg
+3325_dangerous water (57).jpeg
+3624_dangerous bushes (59).jpeg
+3913_dangerous water (182).jpeg
+4188_dangerous bushes (61).jpeg
+4321_dangerous water (330).jpeg
+4359_dangerous water (239).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+4839_dangerous water (335).jpeg
+4849_dangerous bushes (17).jpeg
+4863_dangerous bushes (62).jpeg
+5214_dangerous water (444).jpeg
+5285_dangerous grass water (16).jpeg
+5351_dangerous bushes (69).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+6014_dangerous bushes (71).jpeg
+7052_dangerous bushes (58).jpeg
+7112_dangerous water (190).jpeg
+7532_dangerous bushes (16).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+6196_dangerous bushes (7).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+8071_dangerous grass water (18).jpeg
+8214_dangerous bushes (2).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9410_dangerous water (26).jpeg
+9546_dangerous bushes grass 0.jpeg
+9891_dangerous bushes (57).jpeg
+9901_dangerous water (462).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 49.466710 seconds.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706           0           0           0           0           0           0           0           0           0
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6             0             0             0             0             0             0             0             0             0 FP: 4.6           0           0           0           0           0           0           0           0           0
+TN: 63.5            0            0            0            0            0            0            0            0            0 FN: 1.3           0           0           0           0           0           0           0           0           0
+[0 1; 1 0], linear, color
+0111_dangerous water (470).jpeg
+0171_dangerous water (472).jpeg
+0235_dangerous water (466).jpeg
+0247_dangerous water (116).jpeg
+0287_dangerous bushes (94).jpeg
+0531_dangerous bushes (29).jpeg
+0581_dangerous bushes (95).jpeg
+0627_dangerous bushes (19).jpeg
+0687_dangerous water (104).jpeg
+0881_dangerous bushes (52).jpeg
+0884_dangerous grass water (5).jpeg
+0935_dangerous bushes (30).jpeg
+0964_dangerous bushes (54).jpeg
+0991_dangerous water (254).jpeg
+1031_dangerous grass water (6).jpeg
+1103_dangerous water (186).jpeg
+1308_dangerous bushes (13).jpeg
+1388_dangerous water (467).jpeg
+1490_dangerous bushes (25).jpeg
+1658_dangerous water (141).jpeg
+1663_dangerous bushes (4).jpeg
+1767_dangerous water (387).jpeg
+1779_dangerous bushes (45).jpeg
+1791_dangerous water (238).jpeg
+1804_dangerous water (380).jpeg
+1890_dangerous grass bushes 0.jpeg
+2002_dangerous water (103).jpeg
+2018_dangerous bushes (39).jpeg
+2077_dangerous water grass (9).jpeg
+2130_dangerous water (430).jpeg
+2185_dangerous water (309).jpeg
+2393_dangerous bushes (14).jpeg
+2599_dangerous water (464).jpeg
+2648_dangerous water (469).jpeg
+2671_dangerous water (443).jpeg
+2723_dangerous water (332).jpeg
+2727_dangerous water (358).jpeg
+2899_dangerous water (324).jpeg
+3184_dangerous bushes (72).jpeg
+3314_dangerous bushes (56).jpeg
+3138_dangerous water (25).jpeg
+3172_dangerous bushes (26).jpeg
+3214_dangerous water (318).jpeg
+3221_dangerous water (465).jpeg
+3280_dangerous water (334).jpeg
+3325_dangerous water (57).jpeg
+3370_dangerous water (360).jpeg
+3429_dangerous grass water (9).jpeg
+3454_dangerous water (485).jpeg
+3496_dangerous water (468).jpeg
+3624_dangerous bushes (59).jpeg
+3670_dangerous water (333).jpeg
+3827_dangerous bushes (23).jpeg
+3913_dangerous water (182).jpeg
+4004_dangerous bushes (35).jpeg
+4009_dangerous water (172).jpeg
+4038_dangerous water (24).jpeg
+4178_dangerous water (117).jpeg
+4321_dangerous water (330).jpeg
+4359_dangerous water (239).jpeg
+4456_dangerous water (357).jpeg
+4541_dangerous water (495).jpeg
+4650_dangerous grass water (17).jpeg
+4839_dangerous water (335).jpeg
+4914_dangerous bushes (37).jpeg
+5039_dangerous water (183).jpeg
+5082_dangerous water (442).jpeg
+5179_dangerous water (185).jpeg
+5191_dangerous water bushes (15).jpeg
+5214_dangerous water (444).jpeg
+5285_dangerous grass water (16).jpeg
+5308_dangerous bushes (63).jpeg
+5529_dangerous water (180).jpeg
+5587_dangerous water (22).jpeg
+5820_dangerous bushes (73).jpeg
+5933_dangerous bushes (21).jpeg
+5957_dangerous water (492).jpeg
+5968_dangerous water (471).jpeg
+5975_dangerous bushes (22).jpeg
+7052_dangerous bushes (58).jpeg
+7100_dangerous bushes (55).jpeg
+7112_dangerous water (190).jpeg
+7532_dangerous bushes (16).jpeg
+7736_dangerous water (331).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+7859_dangerous bushes (53).jpeg
+7950_dangerous water (50).jpeg
+7954_dangerous bushes (12).jpeg
+6196_dangerous bushes (7).jpeg
+6234_dangerous water bushes (18).jpeg
+6280_dangerous water (463).jpeg
+6371_dangerous bushes (74).jpeg
+6570_dangerous water (187).jpeg
+6661_dangerous water (487).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+6807_dangerous water (359).jpeg
+6814_dangerous bushes (100).jpeg
+6919_dangerous bushes (24).jpeg
+8039_dangerous bushes (9).jpeg
+8071_dangerous grass water (18).jpeg
+8076_dangerous bushes (36).jpeg
+8086_dangerous bushes (50).jpeg
+8214_dangerous bushes (2).jpeg
+8249_dangerous water (102).jpeg
+8497_dangerous grass water (14).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9043_dangerous bushes (49).jpeg
+9546_dangerous bushes grass 0.jpeg
+9714_dangerous water (237).jpeg
+9858_dangerous grass water (3).jpeg
+9891_dangerous bushes (28).jpeg
+9891_dangerous bushes (57).jpeg
+9901_dangerous water (462).jpeg
+9918_dangerous bushes (40).jpeg
+9931_dangerous bushes (46).jpeg
+9944_dangerous bushes (18).jpeg
+9994_dangerous water (368).jpeg
+Elapsed time is 24.519109 seconds.
+Average over 10 models:
+Precision: 0.96918
+Accuracy: 0.95724           0           0           0           0           0           0           0           0           0
+F-Score: 0.97502
+Recall: 0.98092
+True Negative Rate: 0.82232
+TP: 380.5             0             0             0             0             0             0             0             0             0 FP: 12.1            0            0            0            0            0            0            0            0            0
+TN: 56   0   0   0   0   0   0   0   0   0 FN: 7.4           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], linear color.
+0531_dangerous bushes (29).jpeg
+0627_dangerous bushes (19).jpeg
+0935_dangerous bushes (30).jpeg
+1031_dangerous grass water (6).jpeg
+1103_dangerous water (186).jpeg
+1890_dangerous grass bushes 0.jpeg
+2727_dangerous water (358).jpeg
+2899_dangerous water (324).jpeg
+3221_dangerous water (465).jpeg
+3624_dangerous bushes (59).jpeg
+3913_dangerous water (182).jpeg
+4456_dangerous water (357).jpeg
+4541_dangerous water (495).jpeg
+4650_dangerous grass water (17).jpeg
+4839_dangerous water (335).jpeg
+4866_dangerous grass water (1).jpeg
+5082_dangerous water (442).jpeg
+5179_dangerous water (185).jpeg
+5191_dangerous water bushes (15).jpeg
+5214_dangerous water (444).jpeg
+5285_dangerous grass water (16).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+7052_dangerous bushes (58).jpeg
+7066_dangerous bushes (98).jpeg
+7100_dangerous bushes (55).jpeg
+7532_dangerous bushes (16).jpeg
+7551_dangerous bushes (70).jpeg
+7950_dangerous water (50).jpeg
+6196_dangerous bushes (7).jpeg
+6570_dangerous water (187).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+6807_dangerous water (359).jpeg
+8071_dangerous grass water (18).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9546_dangerous bushes grass 0.jpeg
+9714_dangerous water (237).jpeg
+9858_dangerous grass water (3).jpeg
+9891_dangerous bushes (57).jpeg
+9901_dangerous water (462).jpeg
+Elapsed time is 72.805177 seconds.
+Average over 10 models:
+Precision: 0.98702
+Accuracy: 0.85702           0           0           0           0           0           0           0           0           0
+F-Score: 0.90934
+Recall: 0.843
+True Negative Rate: 0.93686
+TP: 327    0    0    0    0    0    0    0    0    0 FP: 4.3           0           0           0           0           0           0           0           0           0
+TN: 63.8            0            0            0            0            0            0            0            0            0 FN: 60.9            0            0            0            0            0            0            0            0            0
+[0 1; 1 0], polynomial HOG.
+0454_dangerous bushes (65).jpeg
+0881_dangerous bushes (52).jpeg
+0884_dangerous grass water (5).jpeg
+1342_dangerous bushes (6).jpeg
+1866_dangerous water (78).jpeg
+1874_dangerous bushes (108).jpeg
+2130_dangerous water (430).jpeg
+2546_dangerous water (364).jpeg
+2730_dangerous water grass (5).jpeg
+3184_dangerous bushes (72).jpeg
+3314_dangerous bushes (56).jpeg
+3516_dangerous bushes (107).jpeg
+3407_dangerous water bushes (9).jpeg
+3527_dangerous bushes (66).jpeg
+3754_dangerous water (475).jpeg
+3827_dangerous bushes (23).jpeg
+4188_dangerous bushes (61).jpeg
+4650_dangerous grass water (17).jpeg
+4675_dangerous grass water (10).jpeg
+4849_dangerous bushes (17).jpeg
+4863_dangerous bushes (62).jpeg
+4866_dangerous grass water (1).jpeg
+4897_dangerous bushes (5).jpeg
+5124_dangerous bushes (11).jpeg
+5167_dangerous water (363).jpeg
+5285_dangerous grass water (16).jpeg
+5395_dangerous grass water (4).jpeg
+5820_dangerous bushes (73).jpeg
+5949_dangerous water bushes (3).jpeg
+5964_dangerous water difficult (5).jpeg
+6014_dangerous bushes (71).jpeg
+7066_dangerous bushes (98).jpeg
+7417_dangerous water bushes (16).jpeg
+7532_dangerous bushes (16).jpeg
+7551_dangerous bushes (70).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+7954_dangerous bushes (12).jpeg
+8024_dangerous bushes (97).jpeg
+6065_dangerous water (459).jpeg
+6085_dangerous bushes (51).jpeg
+6196_dangerous bushes (7).jpeg
+6310_dangerous water (408).jpeg
+6772_dangerous bushes (67).jpeg
+6814_dangerous bushes (100).jpeg
+6887_dangerous water grass (6).jpeg
+8071_dangerous grass water (18).jpeg
+8076_dangerous bushes (36).jpeg
+8150_dangerous grass water (2).jpeg
+8534_dangerous grass water (0).jpeg
+8773_dangerous water bushes (11).jpeg
+8976_dangerous water (200).jpeg
+9523_dangerous water bushes (12).jpeg
+9784_dangerous bushes (8).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 33.195011 seconds.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939           0           0           0           0           0           0           0           0           0
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384    0    0    0    0    0    0    0    0    0 FP: 5.5           0           0           0           0           0           0           0           0           0
+TN: 62.6            0            0            0            0            0            0            0            0            0 FN: 3.9           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], polynomial HOG.
+0454_dangerous bushes (65).jpeg
+0881_dangerous bushes (52).jpeg
+0884_dangerous grass water (5).jpeg
+1342_dangerous bushes (6).jpeg
+1866_dangerous water (78).jpeg
+1874_dangerous bushes (108).jpeg
+2130_dangerous water (430).jpeg
+2546_dangerous water (364).jpeg
+2730_dangerous water grass (5).jpeg
+3184_dangerous bushes (72).jpeg
+3314_dangerous bushes (56).jpeg
+3516_dangerous bushes (107).jpeg
+3407_dangerous water bushes (9).jpeg
+3527_dangerous bushes (66).jpeg
+3754_dangerous water (475).jpeg
+3827_dangerous bushes (23).jpeg
+4188_dangerous bushes (61).jpeg
+4650_dangerous grass water (17).jpeg
+4675_dangerous grass water (10).jpeg
+4849_dangerous bushes (17).jpeg
+4863_dangerous bushes (62).jpeg
+4866_dangerous grass water (1).jpeg
+4897_dangerous bushes (5).jpeg
+5124_dangerous bushes (11).jpeg
+5167_dangerous water (363).jpeg
+5285_dangerous grass water (16).jpeg
+5395_dangerous grass water (4).jpeg
+5820_dangerous bushes (73).jpeg
+5949_dangerous water bushes (3).jpeg
+5964_dangerous water difficult (5).jpeg
+6014_dangerous bushes (71).jpeg
+7066_dangerous bushes (98).jpeg
+7417_dangerous water bushes (16).jpeg
+7532_dangerous bushes (16).jpeg
+7551_dangerous bushes (70).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+7954_dangerous bushes (12).jpeg
+8024_dangerous bushes (97).jpeg
+6065_dangerous water (459).jpeg
+6085_dangerous bushes (51).jpeg
+6196_dangerous bushes (7).jpeg
+6310_dangerous water (408).jpeg
+6772_dangerous bushes (67).jpeg
+6814_dangerous bushes (100).jpeg
+6887_dangerous water grass (6).jpeg
+8071_dangerous grass water (18).jpeg
+8076_dangerous bushes (36).jpeg
+8150_dangerous grass water (2).jpeg
+8534_dangerous grass water (0).jpeg
+8773_dangerous water bushes (11).jpeg
+8976_dangerous water (200).jpeg
+9523_dangerous water bushes (12).jpeg
+9784_dangerous bushes (8).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 27.209313 seconds.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939           0           0           0           0           0           0           0           0           0
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384    0    0    0    0    0    0    0    0    0 FP: 5.5           0           0           0           0           0           0           0           0           0
+TN: 62.6            0            0            0            0            0            0            0            0            0 FN: 3.9           0           0           0           0           0           0           0           0           0
+[0 1; 1 0], linear, HOG
+0454_dangerous bushes (65).jpeg
+0531_dangerous bushes (29).jpeg
+0547_dangerous bushes (43).jpeg
+0627_dangerous bushes (19).jpeg
+0799_dangerous water bushes (13).jpeg
+0881_dangerous bushes (52).jpeg
+0884_dangerous grass water (5).jpeg
+0935_dangerous bushes (30).jpeg
+0964_dangerous bushes (54).jpeg
+1195_dangerous bushes (33).jpeg
+1198_dangerous bushes (64).jpeg
+1308_dangerous bushes (13).jpeg
+1342_dangerous bushes (6).jpeg
+1393_dangerous bushes (76).jpeg
+1490_dangerous bushes (25).jpeg
+1552_dangerous bushes (47).jpeg
+1663_dangerous bushes (4).jpeg
+1767_dangerous water (387).jpeg
+1779_dangerous bushes (45).jpeg
+1866_dangerous water (78).jpeg
+1874_dangerous bushes (108).jpeg
+1890_dangerous grass bushes 0.jpeg
+2018_dangerous bushes (39).jpeg
+2130_dangerous water (430).jpeg
+2296_dangerous water bushes (10).jpeg
+2393_dangerous bushes (14).jpeg
+2546_dangerous water (364).jpeg
+2730_dangerous water grass (5).jpeg
+2790_dangerous bushes (41).jpeg
+3064_dangerous bushes (105).jpeg
+3091_dangerous bushes (31).jpeg
+3184_dangerous bushes (72).jpeg
+3314_dangerous bushes (56).jpeg
+3516_dangerous bushes (107).jpeg
+3839_dangerous bushes (48).jpeg
+4019_dangerous bushes (103).jpeg
+3159_dangerous water grass (2).jpeg
+3172_dangerous bushes (26).jpeg
+3407_dangerous water bushes (9).jpeg
+3527_dangerous bushes (66).jpeg
+3624_dangerous bushes (59).jpeg
+3754_dangerous water (475).jpeg
+3827_dangerous bushes (23).jpeg
+3835_dangerous bushes (101).jpeg
+4004_dangerous bushes (35).jpeg
+4013_dangerous bushes (99).jpeg
+4188_dangerous bushes (61).jpeg
+4650_dangerous grass water (17).jpeg
+4792_dangerous bushes (102).jpeg
+4804_dangerous bushes (104).jpeg
+4849_dangerous bushes (17).jpeg
+4863_dangerous bushes (62).jpeg
+4897_dangerous bushes (5).jpeg
+4914_dangerous bushes (37).jpeg
+5030_dangerous bushes (68).jpeg
+5124_dangerous bushes (11).jpeg
+5167_dangerous water (363).jpeg
+5169_dangerous bushes (106).jpeg
+5191_dangerous water bushes (15).jpeg
+5285_dangerous grass water (16).jpeg
+5301_dangerous bushes (10).jpeg
+5308_dangerous bushes (63).jpeg
+5351_dangerous bushes (69).jpeg
+5395_dangerous grass water (4).jpeg
+5596_dangerous bushes (44).jpeg
+5820_dangerous bushes (73).jpeg
+5933_dangerous bushes (21).jpeg
+5949_dangerous water bushes (3).jpeg
+5964_dangerous water difficult (5).jpeg
+5975_dangerous bushes (22).jpeg
+5999_dangerous bushes (32).jpeg
+6014_dangerous bushes (71).jpeg
+7052_dangerous bushes (58).jpeg
+7066_dangerous bushes (98).jpeg
+7100_dangerous bushes (55).jpeg
+7283_dangerous bushes (34).jpeg
+7417_dangerous water bushes (16).jpeg
+7532_dangerous bushes (16).jpeg
+7551_dangerous bushes (70).jpeg
+7738_dangerous bushes (15).jpeg
+7754_dangerous water grass (1).jpeg
+7855_dangerous bushes (60).jpeg
+7859_dangerous bushes (53).jpeg
+7954_dangerous bushes (12).jpeg
+8006_dangerous bushes (42).jpeg
+8024_dangerous bushes (97).jpeg
+6085_dangerous bushes (51).jpeg
+6196_dangerous bushes (7).jpeg
+6300_dangerous bushes (1).jpeg
+6310_dangerous water (408).jpeg
+6371_dangerous bushes (74).jpeg
+6683_dangerous bushes (109).jpeg
+6772_dangerous bushes (67).jpeg
+6814_dangerous bushes (100).jpeg
+6887_dangerous water grass (6).jpeg
+6919_dangerous bushes (24).jpeg
+8039_dangerous bushes (9).jpeg
+8071_dangerous grass water (18).jpeg
+8076_dangerous bushes (36).jpeg
+8117_dangerous bushes (27).jpeg
+8150_dangerous grass water (2).jpeg
+8214_dangerous bushes (2).jpeg
+8353_dangerous water (83).jpeg
+8534_dangerous grass water (0).jpeg
+8773_dangerous water bushes (11).jpeg
+8827_dangerous bushes (3).jpeg
+8840_dangerous water (383).jpeg
+8866_dangerous grass water (15).jpeg
+9043_dangerous bushes (49).jpeg
+9173_dangerous water (362).jpeg
+9215_dangerous bushes (20).jpeg
+9523_dangerous water bushes (12).jpeg
+9546_dangerous bushes grass 0.jpeg
+9784_dangerous bushes (8).jpeg
+9891_dangerous bushes (28).jpeg
+9891_dangerous bushes (57).jpeg
+9931_dangerous bushes (46).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 45.654859 seconds.
+Average over 10 models:
+Precision: 0.97029
+Accuracy: 0.96864           0           0           0           0           0           0           0           0           0
+F-Score: 0.98179
+Recall: 0.99356
+True Negative Rate: 0.82673
+TP: 385.4             0             0             0             0             0             0             0             0             0 FP: 11.8            0            0            0            0            0            0            0            0            0
+TN: 56.3            0            0            0            0            0            0            0            0            0 FN: 2.5           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], linear HOG.
+3527_dangerous bushes (66).jpeg
+4650_dangerous grass water (17).jpeg
+7754_dangerous water grass (1).jpeg
+6887_dangerous water grass (6).jpeg
+8071_dangerous grass water (18).jpeg
+8150_dangerous grass water (2).jpeg
+8353_dangerous water (83).jpeg
+8534_dangerous grass water (0).jpeg
+Elapsed time is 166.859005 seconds.
+Average over 10 models:
+Precision: 0.99765
+Accuracy: 0.89123           0           0           0           0           0           0           0           0           0
+F-Score: 0.93185
+Recall: 0.87419
+True Negative Rate: 0.98825
+TP: 339.1             0             0             0             0             0             0             0             0             0 FP: 0.8           0           0           0           0           0           0           0           0           0
+TN: 67.3            0            0            0            0            0            0            0            0            0 FN: 48.8            0            0            0            0            0            0            0            0            0
+[0 1; 1 0], polynomial Color and HOG.
+0627_dangerous bushes (19).jpeg
+0881_dangerous bushes (52).jpeg
+1890_dangerous grass bushes 0.jpeg
+2393_dangerous bushes (14).jpeg
+2727_dangerous water (358).jpeg
+3314_dangerous bushes (56).jpeg
+3913_dangerous water (182).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+5285_dangerous grass water (16).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+6014_dangerous bushes (71).jpeg
+7066_dangerous bushes (98).jpeg
+7112_dangerous water (190).jpeg
+7532_dangerous bushes (16).jpeg
+6085_dangerous bushes (51).jpeg
+6196_dangerous bushes (7).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+8071_dangerous grass water (18).jpeg
+8214_dangerous bushes (2).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9546_dangerous bushes grass 0.jpeg
+9901_dangerous water (462).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 90.676878 seconds.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145           0           0           0           0           0           0           0           0           0
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8             0             0             0             0             0             0             0             0             0 FP: 2.8           0           0           0           0           0           0           0           0           0
+TN: 65.3            0            0            0            0            0            0            0            0            0 FN: 1.1           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], polynomial Color and HOG.
+0627_dangerous bushes (19).jpeg
+0881_dangerous bushes (52).jpeg
+1890_dangerous grass bushes 0.jpeg
+2393_dangerous bushes (14).jpeg
+2727_dangerous water (358).jpeg
+3314_dangerous bushes (56).jpeg
+3913_dangerous water (182).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+5285_dangerous grass water (16).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+6014_dangerous bushes (71).jpeg
+7066_dangerous bushes (98).jpeg
+7112_dangerous water (190).jpeg
+7532_dangerous bushes (16).jpeg
+6085_dangerous bushes (51).jpeg
+6196_dangerous bushes (7).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+8071_dangerous grass water (18).jpeg
+8214_dangerous bushes (2).jpeg
+8534_dangerous grass water (0).jpeg
+8827_dangerous bushes (3).jpeg
+8866_dangerous grass water (15).jpeg
+9546_dangerous bushes grass 0.jpeg
+9901_dangerous water (462).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 66.250452 seconds.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145           0           0           0           0           0           0           0           0           0
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8             0             0             0             0             0             0             0             0             0 FP: 2.8           0           0           0           0           0           0           0           0           0
+TN: 65.3            0            0            0            0            0            0            0            0            0 FN: 1.1           0           0           0           0           0           0           0           0           0
+[0 1; 1 0], linear, Color and HOG
+0111_dangerous water (470).jpeg
+0171_dangerous water (472).jpeg
+0460_dangerous water (477).jpeg
+0531_dangerous bushes (29).jpeg
+0627_dangerous bushes (19).jpeg
+0881_dangerous bushes (52).jpeg
+0884_dangerous grass water (5).jpeg
+1209_dangerous water (514).jpeg
+1490_dangerous bushes (25).jpeg
+1767_dangerous water (387).jpeg
+1791_dangerous water (238).jpeg
+1874_dangerous bushes (108).jpeg
+1890_dangerous grass bushes 0.jpeg
+2018_dangerous bushes (39).jpeg
+2130_dangerous water (430).jpeg
+2362_dangerous water (167).jpeg
+2393_dangerous bushes (14).jpeg
+2546_dangerous water (364).jpeg
+2648_dangerous water (469).jpeg
+2671_dangerous water (443).jpeg
+2727_dangerous water (358).jpeg
+2899_dangerous water (324).jpeg
+3184_dangerous bushes (72).jpeg
+3624_dangerous bushes (59).jpeg
+3827_dangerous bushes (23).jpeg
+3913_dangerous water (182).jpeg
+4009_dangerous water (172).jpeg
+4321_dangerous water (330).jpeg
+4359_dangerous water (239).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+4863_dangerous bushes (62).jpeg
+5039_dangerous water (183).jpeg
+5082_dangerous water (442).jpeg
+5179_dangerous water (185).jpeg
+5191_dangerous water bushes (15).jpeg
+5214_dangerous water (444).jpeg
+5285_dangerous grass water (16).jpeg
+5529_dangerous water (180).jpeg
+5580_dangerous water (489).jpeg
+5587_dangerous water (22).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+6014_dangerous bushes (71).jpeg
+7052_dangerous bushes (58).jpeg
+7066_dangerous bushes (98).jpeg
+7100_dangerous bushes (55).jpeg
+7532_dangerous bushes (16).jpeg
+7738_dangerous bushes (15).jpeg
+7855_dangerous bushes (60).jpeg
+7912_dangerous water (378).jpeg
+7950_dangerous water (50).jpeg
+7954_dangerous bushes (12).jpeg
+6196_dangerous bushes (7).jpeg
+6371_dangerous bushes (74).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+6807_dangerous water (359).jpeg
+6814_dangerous bushes (100).jpeg
+6919_dangerous bushes (24).jpeg
+8039_dangerous bushes (9).jpeg
+8071_dangerous grass water (18).jpeg
+8076_dangerous bushes (36).jpeg
+8150_dangerous grass water (2).jpeg
+8214_dangerous bushes (2).jpeg
+8497_dangerous grass water (14).jpeg
+8534_dangerous grass water (0).jpeg
+8866_dangerous grass water (15).jpeg
+9546_dangerous bushes grass 0.jpeg
+9858_dangerous grass water (3).jpeg
+9901_dangerous water (462).jpeg
+9931_dangerous bushes (46).jpeg
+9944_dangerous bushes (18).jpeg
+Elapsed time is 45.547326 seconds.
+Average over 10 models:
+Precision: 0.98127
+Accuracy: 0.97215           0           0           0           0           0           0           0           0           0
+F-Score: 0.98367
+Recall: 0.98608
+True Negative Rate: 0.8928
+TP: 382.5             0             0             0             0             0             0             0             0             0 FP: 7.3           0           0           0           0           0           0           0           0           0
+TN: 60.8            0            0            0            0            0            0            0            0            0 FN: 5.4           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], linear Color and HOG.
+0531_dangerous bushes (29).jpeg
+0627_dangerous bushes (19).jpeg
+0935_dangerous bushes (30).jpeg
+1663_dangerous bushes (4).jpeg
+1890_dangerous grass bushes 0.jpeg
+2130_dangerous water (430).jpeg
+2393_dangerous bushes (14).jpeg
+2727_dangerous water (358).jpeg
+3624_dangerous bushes (59).jpeg
+3827_dangerous bushes (23).jpeg
+4456_dangerous water (357).jpeg
+4650_dangerous grass water (17).jpeg
+4866_dangerous grass water (1).jpeg
+5082_dangerous water (442).jpeg
+5191_dangerous water bushes (15).jpeg
+5285_dangerous grass water (16).jpeg
+5820_dangerous bushes (73).jpeg
+5957_dangerous water (492).jpeg
+7052_dangerous bushes (58).jpeg
+7066_dangerous bushes (98).jpeg
+7417_dangerous water bushes (16).jpeg
+7532_dangerous bushes (16).jpeg
+7950_dangerous water (50).jpeg
+7954_dangerous bushes (12).jpeg
+6196_dangerous bushes (7).jpeg
+6371_dangerous bushes (74).jpeg
+6570_dangerous water (187).jpeg
+6721_dangerous water (51).jpeg
+6806_dangerous water (184).jpeg
+8071_dangerous grass water (18).jpeg
+8150_dangerous grass water (2).jpeg
+8534_dangerous grass water (0).jpeg
+8866_dangerous grass water (15).jpeg
+9546_dangerous bushes grass 0.jpeg
+9858_dangerous grass water (3).jpeg
+9901_dangerous water (462).jpeg
+Elapsed time is 101.071723 seconds.
+Average over 10 models:
+Precision: 0.99025
+Accuracy: 0.94342           0           0           0           0           0           0           0           0           0
+F-Score: 0.96593
+Recall: 0.94277
+True Negative Rate: 0.94714
+TP: 365.7             0             0             0             0             0             0             0             0             0 FP: 3.6           0           0           0           0           0           0           0           0           0
+TN: 64.5            0            0            0            0            0            0            0            0            0 FN: 22.2            0            0            0            0            0            0            0            0            0

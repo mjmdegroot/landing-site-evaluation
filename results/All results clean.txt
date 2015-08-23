@@ -1,0 +1,122 @@
+[0 1; 1 0], polynomial color.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6 FP: 4.6
+TN: 63.5  FN: 1.3
+
+[0 1702; 16 0], polynomial color.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6 FP: 4.6
+TN: 63.5 FN: 1.3
+
+[0 1; 1 0], linear, color
+Average over 10 models:
+Precision: 0.96918
+Accuracy: 0.95724
+F-Score: 0.97502
+Recall: 0.98092
+True Negative Rate: 0.82232
+TP: 380.5 FP: 12.1
+TN: 56 FN: 7.4
+
+[0 1702; 16 0], linear color.
+Average over 10 models:
+Precision: 0.98702
+Accuracy: 0.85702
+F-Score: 0.90934
+Recall: 0.843
+True Negative Rate: 0.93686
+TP: 327 FP: 4.3 
+TN: 63.8 FN: 60.9
+
+[0 1; 1 0], polynomial HOG.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384  FP: 5.5
+TN: 62.6 FN: 3.9
+
+[0 1702; 16 0], polynomial HOG.
+Elapsed time is 27.209313 seconds.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384 FP: 5.5
+TN: 62.6 FN: 3.9
+
+[0 1; 1 0], linear, HOG
+Elapsed time is 45.654859 seconds.
+Average over 10 models:
+Precision: 0.97029
+Accuracy: 0.96864
+F-Score: 0.98179
+Recall: 0.99356
+True Negative Rate: 0.82673
+TP: 385.4 FP: 11.8
+TN: 56.3 FN: 2.5
+
+[0 1702; 16 0], linear HOG.
+Elapsed time is 166.859005 seconds.
+Average over 10 models:
+Precision: 0.99765
+Accuracy: 0.89123
+F-Score: 0.93185
+Recall: 0.87419
+True Negative Rate: 0.98825
+TP: 339.1 FP: 0.8
+TN: 67.3 FN: 48.8
+
+[0 1; 1 0], polynomial Color and HOG.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8 FP: 2.8
+TN: 65.3 FN: 1.1
+
+[0 1702; 16 0], polynomial Color and HOG.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8 FP: 2.8
+TN: 65.3 FN: 1.1
+
+[0 1; 1 0], linear, Color and HOG
+Average over 10 models:
+Precision: 0.98127
+Accuracy: 0.97215
+F-Score: 0.98367
+Recall: 0.98608
+True Negative Rate: 0.8928
+TP: 382.5 FP: 7.3
+TN: 60.8 FN: 5.4
+
+[0 1702; 16 0], linear Color and HOG.
+Average over 10 models:
+Precision: 0.99025
+Accuracy: 0.94342
+F-Score: 0.96593
+Recall: 0.94277
+True Negative Rate: 0.94714
+TP: 365.7 FP: 3.6
+TN: 64.5 FN: 22.2

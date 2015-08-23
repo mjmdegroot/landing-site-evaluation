@@ -1,0 +1,100 @@
+[0 1702; 16 0], linear.
+
+Model 1:
+Precision: 0.98098
+Accuracy: 0.92544
+F-Score: 0.95503
+Recall: 0.93041
+True Negative Rate: 0.89706
+TP: 361 FP: 7
+TN: 61 FN: 27
+
+Model 2:
+Precision: 0.98356
+Accuracy: 0.92325
+F-Score: 0.95352
+Recall: 0.92526
+True Negative Rate: 0.91176
+TP: 359 FP: 6
+TN: 62 FN: 29
+
+Model 3:
+Precision: 0.98338
+Accuracy: 0.91447
+F-Score: 0.94793
+Recall: 0.91495
+True Negative Rate: 0.91176
+TP: 355 FP: 6
+TN: 62 FN: 33
+
+Model 4:
+Precision: 0.98333
+Accuracy: 0.91228
+F-Score: 0.94652
+Recall: 0.91237
+True Negative Rate: 0.91176
+TP: 354 FP: 6
+TN: 62 FN: 34
+
+Model 5:
+Precision: 0.98319
+Accuracy: 0.9057
+F-Score: 0.94228
+Recall: 0.90464
+True Negative Rate: 0.91176
+TP: 351 FP: 6
+TN: 62 FN: 37
+
+Model 6:
+Precision: 0.98329
+Accuracy: 0.91009
+F-Score: 0.94511
+Recall: 0.90979
+True Negative Rate: 0.91176
+TP: 353 FP: 6
+TN: 62 FN: 35
+
+Model 7:
+Precision: 0.97581
+Accuracy: 0.92544
+F-Score: 0.95526
+Recall: 0.93557
+True Negative Rate: 0.86765
+TP: 363 FP: 9
+TN: 59 FN: 25
+
+Model 8:
+Precision: 0.9831
+Accuracy: 0.90132
+F-Score: 0.93943
+Recall: 0.89948
+True Negative Rate: 0.91176
+TP: 349 FP: 6
+TN: 62 FN: 39
+
+Model 9:
+Precision: 0.98603
+Accuracy: 0.91228
+F-Score: 0.94638
+Recall: 0.90979
+True Negative Rate: 0.92647
+TP: 353 FP: 5
+TN: 63 FN: 35
+
+Model 10:
+Precision: 0.9863
+Accuracy: 0.92982
+F-Score: 0.95745
+Recall: 0.93023
+True Negative Rate: 0.92754
+TP: 360 FP: 5
+TN: 64 FN: 27
+
+Average over 10 models:
+Precision: 0.98287
+Accuracy: 0.91601
+F-Score: 0.94893
+Recall: 0.91725
+True Negative Rate: 0.90896
+TP: 355.8 FP: 6.2
+TN: 61.9 FN: 32.1

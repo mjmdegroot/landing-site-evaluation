@@ -1,0 +1,123 @@
+I AM A HAPPY RAINBOW UNICORN CODE AND I AM GOING TO PERFORM WONDROUS RESULTS FOR MY DEAR MASTER.
+[0 100; 1 0], polynomial color.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6 FP: 4.6
+TN: 63.5  FN: 1.3
+
+[0 500; 1 0], polynomial color.
+Average over 10 models:
+Precision: 0.98824
+Accuracy: 0.98706
+F-Score: 0.99243
+Recall: 0.99665
+True Negative Rate: 0.93245
+TP: 386.6 FP: 4.6
+TN: 63.5  FN: 1.3
+
+[0 100; 1 0], linear, color
+Average over 10 models:
+Precision: 0.98648
+Accuracy: 0.85965
+F-Score: 0.91121
+Recall: 0.84661
+True Negative Rate: 0.93392
+TP: 328.4 FP: 4.5
+TN: 63.6  FN: 59.5
+
+[0 500; 1 0], linear color.
+Elapsed time is 226.304253 seconds.
+Average over 10 models:
+Precision: 0.99389
+Accuracy: 0.78728
+F-Score: 0.85785
+Recall: 0.75458
+True Negative Rate: 0.97357
+TP: 292.7 FP: 1.8
+TN: 66.3 FN: 95.2
+
+[0 100; 1 0], polynomial HOG.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384  FP: 5.5
+TN: 62.6 FN: 3.9
+
+[0 500; 1 0], polynomial HOG.
+Average over 10 models:
+Precision: 0.98588
+Accuracy: 0.97939
+F-Score: 0.98791
+Recall: 0.98995
+True Negative Rate: 0.91924
+TP: 384  FP: 5.5
+TN: 62.6 FN: 3.9
+
+[0 100; 1 0], linear, HOG
+Elapsed time is 177.673931 seconds.
+Average over 10 models:
+Precision: 0.99736
+Accuracy: 0.89232
+F-Score: 0.9326
+Recall: 0.87574
+True Negative Rate: 0.98678
+TP: 339.7 FP: 0.9
+TN: 67.2  FN: 48.2
+
+[0 500; 1 0], linear HOG.
+Elapsed time is 247.553399 seconds.
+Average over 10 models:
+Precision: 1
+Accuracy: 0.17325
+F-Score: 0.054664
+Recall: 0.0281
+True Negative Rate: 1
+TP: 10.9 FP: 0  
+TN: 68.1 FN: 377
+
+[0 100; 1 0], polynomial Color and HOG.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8 FP: 2.8
+TN: 65.3 FN: 1.1
+
+[0 500; 1 0], polynomial Color and HOG.
+Average over 10 models:
+Precision: 0.99281
+Accuracy: 0.99145
+F-Score: 0.99498
+Recall: 0.99716
+True Negative Rate: 0.95888
+TP: 386.8 FP: 2.8
+TN: 65.3  FN: 1.1
+
+[0 100; 1 0], linear, Color and HOG
+Average over 10 models:
+Precision: 0.99001
+Accuracy: 0.94496
+F-Score: 0.96689
+Recall: 0.94483
+True Negative Rate: 0.94567
+TP: 366.5 FP: 3.7
+TN: 64.4  FN: 21.4
+
+[0 500; 1 0], linear Color and HOG.
+Average over 10 models:
+Precision: 0.99392
+Accuracy: 0.8625
+F-Score: 0.91256
+Recall: 0.84352
+True Negative Rate: 0.97063
+TP: 327.2 FP: 2
+TN: 66.1  FN: 60.7

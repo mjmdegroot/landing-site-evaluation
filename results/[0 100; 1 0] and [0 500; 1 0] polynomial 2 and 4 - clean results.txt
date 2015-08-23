@@ -1,0 +1,119 @@
+[0 100; 1 0], polynomial 2 color.
+Average over 10 models:
+Precision: 0.98772
+Accuracy: 0.98553
+F-Score: 0.99153
+Recall: 0.99536
+True Negative Rate: 0.92952
+TP: 386.1 FP: 4.8
+TN: 63.3  FN: 1.8
+
+[0 500; 1 0], polynomial 2 color.
+Average over 10 models:
+Precision: 0.98797
+Accuracy: 0.98553
+F-Score: 0.99152
+Recall: 0.9951
+True Negative Rate: 0.93098
+TP: 386  FP: 4.7
+TN: 63.4 FN: 1.9
+
+[0 100; 1 0], polynomial 4 color
+Average over 10 models:
+Precision: 0.98674
+Accuracy: 0.98662
+F-Score: 0.99218
+Recall: 0.99768
+True Negative Rate: 0.92364
+TP: 387  FP: 5.2
+TN: 62.9 FN: 0.9
+
+[0 500; 1 0], polynomial 4 color.
+Average over 10 models:
+Precision: 0.98674
+Accuracy: 0.98662
+F-Score: 0.99218
+Recall: 0.99768
+True Negative Rate: 0.92364
+TP: 387 FP: 5.2
+TN: 62.9 FN: 0.9
+
+[0 100; 1 0], polynomial 2 HOG.
+Average over 10 models:
+Precision: 0.98504
+Accuracy: 0.97412
+F-Score: 0.98479
+Recall: 0.98453
+True Negative Rate: 0.91483
+TP: 381.9 FP: 5.8
+TN: 62.3  FN: 6
+
+[0 500; 1 0], polynomial 2 HOG.
+Average over 10 models:
+Precision: 0.98892
+Accuracy: 0.96228
+F-Score: 0.97757
+Recall: 0.96649
+True Negative Rate: 0.93833
+TP: 374.9 FP: 4.2
+TN: 63.9  FN: 13
+
+[0 100; 1 0], polynomial 4 HOG
+Average over 10 models:
+Precision: 0.98564
+Accuracy: 0.98004
+F-Score: 0.9883
+Recall: 0.99098
+True Negative Rate: 0.91777
+TP: 384.4 FP: 5.6
+TN: 62.5  FN: 3.5
+
+[0 500; 1 0], polynomial 4 HOG.
+Average over 10 models:
+Precision: 0.98564
+Accuracy: 0.98004
+F-Score: 0.9883
+Recall: 0.99098
+True Negative Rate: 0.91777
+TP: 384.4 FP: 5.6
+TN: 62.5  FN: 3.5
+
+[0 100; 1 0], polynomial 2 Color and HOG.
+Average over 10 models:
+Precision: 0.99306
+Accuracy: 0.99057
+F-Score: 0.99447
+Recall: 0.99588
+True Negative Rate: 0.96035
+TP: 386.3 FP: 2.7
+TN: 65.4  FN: 1.6
+
+[0 500; 1 0], polynomial 2 Color and HOG.
+Average over 10 models:
+Precision: 0.99306
+Accuracy: 0.99057
+F-Score: 0.99447
+Recall: 0.99588
+True Negative Rate: 0.96035
+TP: 386.3 FP: 2.7
+TN: 65.4  FN: 1.6
+
+[0 100; 1 0], polynomial 4 Color and HOG
+Average over 10 models:
+Precision: 0.99154
+Accuracy: 0.99079
+F-Score: 0.9946
+Recall: 0.99768
+True Negative Rate: 0.95154
+TP: 387  FP: 3.3
+TN: 64.8 FN: 0.9
+
+[0 500; 1 0], polynomial 4 Color and HOG.
+Average over 10 models:
+Precision: 0.99154
+Accuracy: 0.99079
+F-Score: 0.9946
+Recall: 0.99768
+True Negative Rate: 0.95154
+TP: 387  FP: 3.3
+TN: 64.8 FN: 0.9

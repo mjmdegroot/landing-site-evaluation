@@ -1,0 +1,121 @@
+[0 1; 1 0], linear
+
+Model 1:
+dangerous bushes (1).jpeg
+dangerous bushes (11).jpeg
+dangerous bushes (31).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (71).jpeg
+dangerous water (1).jpeg
+dangerous water (181).jpeg
+dangerous water (321).jpeg
+dangerous water (441).jpeg
+
+Model 2:
+dangerous bushes (102).jpeg
+dangerous bushes (12).jpeg
+dangerous bushes (2).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (182).jpeg
+dangerous water (332).jpeg
+dangerous water (442).jpeg
+dangerous water grass (2).jpeg
+
+Model 3:
+dangerous bushes (103).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (53).jpeg
+dangerous bushes (63).jpeg
+dangerous bushes (73).jpeg
+dangerous grass water (3).jpeg
+dangerous water (113).jpeg
+dangerous water (453).jpeg
+
+Model 4:
+dangerous bushes (34).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous water (184).jpeg
+dangerous water (234).jpeg
+dangerous water (274).jpeg
+dangerous water (54).jpeg
+
+Model 5:
+dangerous bushes (105).jpeg
+dangerous bushes (15).jpeg
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (55).jpeg
+dangerous grass water (5).jpeg
+dangerous water (235).jpeg
+dangerous water (355).jpeg
+dangerous water (465).jpeg
+dangerous water grass (5).jpeg
+
+Model 6:
+dangerous bushes (106).jpeg
+dangerous bushes (16).jpeg
+dangerous bushes (66).jpeg
+dangerous grass water (16).jpeg
+dangerous grass water (6).jpeg
+dangerous water (456).jpeg
+dangerous water (506).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+
+Model 7:
+dangerous bushes (17).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (57).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous water (327).jpeg
+dangerous water (437).jpeg
+dangerous water (467).jpeg
+dangerous water bushes (17).jpeg
+
+Model 8:
+dangerous bushes (108).jpeg
+dangerous bushes (28).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (58).jpeg
+dangerous bushes (68).jpeg
+dangerous bushes (8).jpeg
+dangerous grass water (18).jpeg
+dangerous water (328).jpeg
+dangerous water (48).jpeg
+dangerous water bushes (18).jpeg
+
+Model 9:
+dangerous bushes (109).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (9).jpeg
+dangerous bushes (99).jpeg
+dangerous water (179).jpeg
+dangerous water (359).jpeg
+dangerous water (439).jpeg
+dangerous water (459).jpeg
+dangerous water (489).jpeg
+dangerous water bushes (9).jpeg
+
+Model 10:
+dangerous bushes (10).jpeg
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes (70).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous grass water (10).jpeg
+dangerous water (250).jpeg
+dangerous water (440).jpeg
+
+

@@ -1,0 +1,1911 @@
+Elapsed time is 178.981998 seconds.
+[0 1; 1 0], polynomial HOG.
+dangerous bushes (11).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous grass water (1).jpeg
+dangerous water (361).jpeg
+dangerous water (371).jpeg
+dangerous water bushes (11).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 109.725480 seconds.
+Model 1:
+Precision: 0.97716
+Accuracy: 0.97368
+F-Score: 0.98465
+Recall: 0.99227
+True Negative Rate: 0.86765
+TP: 385 FP: 9
+TN: 59 FN: 3
+dangerous bushes (12).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (472).jpeg
+dangerous water bushes (12).jpeg
+Elapsed time is 146.471585 seconds.
+Model 2:
+Precision: 0.98219
+Accuracy: 0.98026
+F-Score: 0.98848
+Recall: 0.99485
+True Negative Rate: 0.89706
+TP: 386 FP: 7
+TN: 61 FN: 2
+dangerous bushes (23).jpeg
+dangerous bushes (73).jpeg
+dangerous water (513).jpeg
+dangerous water bushes (3).jpeg
+Elapsed time is 152.511331 seconds.
+Model 3:
+Precision: 0.98972
+Accuracy: 0.98465
+F-Score: 0.99099
+Recall: 0.99227
+True Negative Rate: 0.94118
+TP: 385 FP: 4
+TN: 64 FN: 3
+dangerous grass water (4).jpeg
+Elapsed time is 157.008971 seconds.
+Model 4:
+Precision: 0.9974
+Accuracy: 0.98684
+F-Score: 0.99223
+Recall: 0.98711
+True Negative Rate: 0.98529
+TP: 383 FP: 1
+TN: 67 FN: 5
+dangerous bushes (15).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (65).jpeg
+dangerous grass water (5).jpeg
+dangerous water (375).jpeg
+dangerous water (405).jpeg
+dangerous water (75).jpeg
+dangerous water bushes (15).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 162.406249 seconds.
+Model 5:
+Precision: 0.97727
+Accuracy: 0.97807
+F-Score: 0.98724
+Recall: 0.99742
+True Negative Rate: 0.86765
+TP: 387 FP: 9
+TN: 59 FN: 1
+dangerous bushes (16).jpeg
+dangerous bushes (36).jpeg
+dangerous bushes (6).jpeg
+dangerous bushes (66).jpeg
+dangerous grass water (16).jpeg
+dangerous water (456).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 172.054564 seconds.
+Model 6:
+Precision: 0.97964
+Accuracy: 0.97588
+F-Score: 0.98592
+Recall: 0.99227
+True Negative Rate: 0.88235
+TP: 385 FP: 8
+TN: 60 FN: 3
+dangerous bushes (107).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous water (197).jpeg
+dangerous water (427).jpeg
+Elapsed time is 176.755805 seconds.
+Model 7:
+Precision: 0.98214
+Accuracy: 0.97807
+F-Score: 0.98718
+Recall: 0.99227
+True Negative Rate: 0.89706
+TP: 385 FP: 7
+TN: 61 FN: 3
+dangerous bushes (108).jpeg
+dangerous bushes (18).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous water grass (8).jpeg
+Elapsed time is 181.665726 seconds.
+Model 8:
+Precision: 0.98469
+Accuracy: 0.98246
+F-Score: 0.98974
+Recall: 0.99485
+True Negative Rate: 0.91176
+TP: 386 FP: 6
+TN: 62 FN: 2
+dangerous water (409).jpeg
+dangerous water difficult (1).jpeg
+dangerous water difficult (5).jpeg
+Elapsed time is 186.719632 seconds.
+Model 9:
+Precision: 0.99221
+Accuracy: 0.98026
+F-Score: 0.98836
+Recall: 0.98454
+True Negative Rate: 0.95588
+TP: 382 FP: 3
+TN: 65 FN: 6
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous grass water (10).jpeg
+dangerous water (90).jpeg
+Elapsed time is 191.471632 seconds.
+Model 10:
+Precision: 0.97949
+Accuracy: 0.97149
+F-Score: 0.98327
+Recall: 0.98708
+True Negative Rate: 0.88406
+TP: 382 FP: 8
+TN: 61 FN: 5
+Average over 10 models:
+Precision: 0.98414
+Accuracy: 0.97917           0           0           0           0           0           0           0           0           0
+F-Score: 0.9878
+Recall: 0.99149
+True Negative Rate: 0.90896
+TP: 384.6             0             0             0             0             0             0             0             0             0 FP: 6.2           0           0           0           0           0           0           0           0           0
+TN: 61.9            0            0            0            0            0            0            0            0            0 FN: 3.3           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], polynomial HOG.
+dangerous bushes (11).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous grass water (1).jpeg
+dangerous water (361).jpeg
+dangerous water (371).jpeg
+dangerous water bushes (11).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 6.110543 seconds.
+Model 1:
+Precision: 0.97716
+Accuracy: 0.97368
+F-Score: 0.98465
+Recall: 0.99227
+True Negative Rate: 0.86765
+TP: 385 FP: 9
+TN: 59 FN: 3
+dangerous bushes (12).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (472).jpeg
+dangerous water bushes (12).jpeg
+Elapsed time is 10.521091 seconds.
+Model 2:
+Precision: 0.98219
+Accuracy: 0.98026
+F-Score: 0.98848
+Recall: 0.99485
+True Negative Rate: 0.89706
+TP: 386 FP: 7
+TN: 61 FN: 2
+dangerous bushes (23).jpeg
+dangerous bushes (73).jpeg
+dangerous water (513).jpeg
+dangerous water bushes (3).jpeg
+Elapsed time is 16.773832 seconds.
+Model 3:
+Precision: 0.98972
+Accuracy: 0.98465
+F-Score: 0.99099
+Recall: 0.99227
+True Negative Rate: 0.94118
+TP: 385 FP: 4
+TN: 64 FN: 3
+dangerous grass water (4).jpeg
+Elapsed time is 24.131280 seconds.
+Model 4:
+Precision: 0.9974
+Accuracy: 0.98684
+F-Score: 0.99223
+Recall: 0.98711
+True Negative Rate: 0.98529
+TP: 383 FP: 1
+TN: 67 FN: 5
+dangerous bushes (15).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (65).jpeg
+dangerous grass water (5).jpeg
+dangerous water (375).jpeg
+dangerous water (405).jpeg
+dangerous water (75).jpeg
+dangerous water bushes (15).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 29.249134 seconds.
+Model 5:
+Precision: 0.97727
+Accuracy: 0.97807
+F-Score: 0.98724
+Recall: 0.99742
+True Negative Rate: 0.86765
+TP: 387 FP: 9
+TN: 59 FN: 1
+dangerous bushes (16).jpeg
+dangerous bushes (36).jpeg
+dangerous bushes (6).jpeg
+dangerous bushes (66).jpeg
+dangerous grass water (16).jpeg
+dangerous water (456).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 35.716511 seconds.
+Model 6:
+Precision: 0.97964
+Accuracy: 0.97588
+F-Score: 0.98592
+Recall: 0.99227
+True Negative Rate: 0.88235
+TP: 385 FP: 8
+TN: 60 FN: 3
+dangerous bushes (107).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous water (197).jpeg
+dangerous water (427).jpeg
+Elapsed time is 48.416882 seconds.
+Model 7:
+Precision: 0.98214
+Accuracy: 0.97807
+F-Score: 0.98718
+Recall: 0.99227
+True Negative Rate: 0.89706
+TP: 385 FP: 7
+TN: 61 FN: 3
+dangerous bushes (108).jpeg
+dangerous bushes (18).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous water grass (8).jpeg
+Elapsed time is 53.272287 seconds.
+Model 8:
+Precision: 0.98469
+Accuracy: 0.98246
+F-Score: 0.98974
+Recall: 0.99485
+True Negative Rate: 0.91176
+TP: 386 FP: 6
+TN: 62 FN: 2
+dangerous water (409).jpeg
+dangerous water difficult (1).jpeg
+dangerous water difficult (5).jpeg
+Elapsed time is 59.518625 seconds.
+Model 9:
+Precision: 0.99221
+Accuracy: 0.98026
+F-Score: 0.98836
+Recall: 0.98454
+True Negative Rate: 0.95588
+TP: 382 FP: 3
+TN: 65 FN: 6
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous grass water (10).jpeg
+dangerous water (90).jpeg
+Elapsed time is 90.575033 seconds.
+Model 10:
+Precision: 0.97949
+Accuracy: 0.97149
+F-Score: 0.98327
+Recall: 0.98708
+True Negative Rate: 0.88406
+TP: 382 FP: 8
+TN: 61 FN: 5
+Average over 10 models:
+Precision: 0.98414
+Accuracy: 0.97917           0           0           0           0           0           0           0           0           0
+F-Score: 0.9878
+Recall: 0.99149
+True Negative Rate: 0.90896
+TP: 384.6             0             0             0             0             0             0             0             0             0 FP: 6.2           0           0           0           0           0           0           0           0           0
+TN: 61.9            0            0            0            0            0            0            0            0            0 FN: 3.3           0           0           0           0           0           0           0           0           0
+[0 1; 1 0], linear, HOG
+dangerous bushes (1).jpeg
+dangerous bushes (101).jpeg
+dangerous bushes (11).jpeg
+dangerous bushes (21).jpeg
+dangerous bushes (31).jpeg
+dangerous bushes (41).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous water (191).jpeg
+dangerous water (361).jpeg
+dangerous water bushes (11).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 7.266467 seconds.
+Model 1:
+Precision: 0.96734
+Accuracy: 0.96491
+F-Score: 0.97964
+Recall: 0.99227
+True Negative Rate: 0.80882
+TP: 385 FP: 13
+TN: 55 FN: 3
+dangerous bushes (102).jpeg
+dangerous bushes (12).jpeg
+dangerous bushes (2).jpeg
+dangerous bushes (22).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (42).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (472).jpeg
+dangerous water bushes (12).jpeg
+dangerous water grass (2).jpeg
+Elapsed time is 15.339983 seconds.
+Model 2:
+Precision: 0.96725
+Accuracy: 0.96272
+F-Score: 0.97834
+Recall: 0.98969
+True Negative Rate: 0.80882
+TP: 384 FP: 13
+TN: 55 FN: 4
+dangerous bushes (103).jpeg
+dangerous bushes (13).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (33).jpeg
+dangerous bushes (43).jpeg
+dangerous bushes (63).jpeg
+dangerous bushes (73).jpeg
+dangerous water (473).jpeg
+dangerous water bushes (13).jpeg
+dangerous water bushes (3).jpeg
+Elapsed time is 22.830772 seconds.
+Model 3:
+Precision: 0.97222
+Accuracy: 0.9693
+F-Score: 0.98214
+Recall: 0.99227
+True Negative Rate: 0.83824
+TP: 385 FP: 11
+TN: 57 FN: 3
+dangerous bushes (104).jpeg
+dangerous bushes (14).jpeg
+dangerous bushes (24).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous bushes (64).jpeg
+dangerous bushes (74).jpeg
+dangerous grass water (4).jpeg
+dangerous water (384).jpeg
+Elapsed time is 29.922964 seconds.
+Model 4:
+Precision: 0.97468
+Accuracy: 0.97149
+F-Score: 0.9834
+Recall: 0.99227
+True Negative Rate: 0.85294
+TP: 385 FP: 10
+TN: 58 FN: 3
+dangerous bushes (105).jpeg
+dangerous bushes (15).jpeg
+dangerous bushes (25).jpeg
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (55).jpeg
+dangerous bushes (65).jpeg
+dangerous grass water (5).jpeg
+dangerous water (405).jpeg
+dangerous water (75).jpeg
+dangerous water bushes (15).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 35.946139 seconds.
+Model 5:
+Precision: 0.9675
+Accuracy: 0.9693
+F-Score: 0.98223
+Recall: 0.99742
+True Negative Rate: 0.80882
+TP: 387 FP: 13
+TN: 55 FN: 1
+dangerous bushes (106).jpeg
+dangerous bushes (16).jpeg
+dangerous bushes (26).jpeg
+dangerous bushes (36).jpeg
+dangerous bushes (46).jpeg
+dangerous bushes (56).jpeg
+dangerous bushes (6).jpeg
+dangerous bushes (66).jpeg
+dangerous bushes (76).jpeg
+dangerous grass water (16).jpeg
+dangerous water (456).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 42.128128 seconds.
+Model 6:
+Precision: 0.96742
+Accuracy: 0.96711
+F-Score: 0.98094
+Recall: 0.99485
+True Negative Rate: 0.80882
+TP: 386 FP: 13
+TN: 55 FN: 2
+dangerous bushes (107).jpeg
+dangerous bushes (17).jpeg
+dangerous bushes (27).jpeg
+dangerous bushes (37).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous water (427).jpeg
+Elapsed time is 48.026801 seconds.
+Model 7:
+Precision: 0.97481
+Accuracy: 0.97588
+F-Score: 0.98599
+Recall: 0.99742
+True Negative Rate: 0.85294
+TP: 387 FP: 10
+TN: 58 FN: 1
+dangerous bushes (108).jpeg
+dangerous bushes (18).jpeg
+dangerous bushes (28).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (58).jpeg
+dangerous bushes (68).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous water grass (8).jpeg
+Elapsed time is 53.881163 seconds.
+Model 8:
+Precision: 0.97481
+Accuracy: 0.97588
+F-Score: 0.98599
+Recall: 0.99742
+True Negative Rate: 0.85294
+TP: 387 FP: 10
+TN: 58 FN: 1
+dangerous bushes (109).jpeg
+dangerous bushes (19).jpeg
+dangerous bushes (29).jpeg
+dangerous bushes (39).jpeg
+dangerous bushes (49).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (69).jpeg
+dangerous bushes (9).jpeg
+dangerous bushes (99).jpeg
+dangerous water (359).jpeg
+dangerous water bushes (9).jpeg
+dangerous water difficult (5).jpeg
+Elapsed time is 59.949743 seconds.
+Model 9:
+Precision: 0.96977
+Accuracy: 0.96711
+F-Score: 0.98089
+Recall: 0.99227
+True Negative Rate: 0.82353
+TP: 385 FP: 12
+TN: 56 FN: 3
+dangerous bushes (10).jpeg
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (30).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes (70).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous water (360).jpeg
+dangerous water (80).jpeg
+dangerous water bushes (10).jpeg
+Elapsed time is 65.645084 seconds.
+Model 10:
+Precision: 0.9697
+Accuracy: 0.96711
+F-Score: 0.98084
+Recall: 0.99225
+True Negative Rate: 0.82609
+TP: 384 FP: 12
+TN: 57 FN: 3
+Average over 10 models:
+Precision: 0.97054
+Accuracy: 0.96908           0           0           0           0           0           0           0           0           0
+F-Score: 0.98204
+Recall: 0.99381
+True Negative Rate: 0.82819
+TP: 385.5             0             0             0             0             0             0             0             0             0 FP: 11.7            0            0            0            0            0            0            0            0            0
+TN: 56.4            0            0            0            0            0            0            0            0            0 FN: 2.4           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], linear HOG.
+dangerous water grass (1).jpeg
+Elapsed time is 21.215281 seconds.
+Model 1:
+Precision: 0.99708
+Accuracy: 0.89693
+F-Score: 0.9357
+Recall: 0.88144
+True Negative Rate: 0.98529
+TP: 342 FP: 1
+TN: 67 FN: 46
+Elapsed time is 44.890900 seconds.
+Model 2:
+Precision: 1
+Accuracy: 0.89474
+F-Score: 0.93407
+Recall: 0.87629
+True Negative Rate: 1
+TP: 340 FP: 0
+TN: 68 FN: 48
+Elapsed time is 68.143118 seconds.
+Model 3:
+Precision: 1
+Accuracy: 0.88816
+F-Score: 0.92966
+Recall: 0.86856
+True Negative Rate: 1
+TP: 337 FP: 0
+TN: 68 FN: 51
+Elapsed time is 91.495503 seconds.
+Model 4:
+Precision: 1
+Accuracy: 0.89254
+F-Score: 0.9326
+Recall: 0.87371
+True Negative Rate: 1
+TP: 339 FP: 0
+TN: 68 FN: 49
+Elapsed time is 121.437454 seconds.
+Model 5:
+Precision: 1
+Accuracy: 0.90789
+F-Score: 0.94278
+Recall: 0.89175
+True Negative Rate: 1
+TP: 346 FP: 0
+TN: 68 FN: 42
+dangerous bushes (66).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 144.954241 seconds.
+Model 6:
+Precision: 0.99415
+Accuracy: 0.89035
+F-Score: 0.93151
+Recall: 0.87629
+True Negative Rate: 0.97059
+TP: 340 FP: 2
+TN: 66 FN: 48
+dangerous grass water (17).jpeg
+dangerous water (427).jpeg
+Elapsed time is 183.526326 seconds.
+Model 7:
+Precision: 0.99419
+Accuracy: 0.89474
+F-Score: 0.93443
+Recall: 0.88144
+True Negative Rate: 0.97059
+TP: 342 FP: 2
+TN: 66 FN: 46
+dangerous grass water (18).jpeg
+Elapsed time is 304.753013 seconds.
+Model 8:
+Precision: 0.99706
+Accuracy: 0.89035
+F-Score: 0.93132
+Recall: 0.87371
+True Negative Rate: 0.98529
+TP: 339 FP: 1
+TN: 67 FN: 49
+Elapsed time is 43860.751791 seconds.
+Model 9:
+Precision: 1
+Accuracy: 0.88158
+F-Score: 0.92521
+Recall: 0.86082
+True Negative Rate: 1
+TP: 334 FP: 0
+TN: 68 FN: 54
+dangerous grass water (0).jpeg
+dangerous water (360).jpeg
+dangerous water (80).jpeg
+Elapsed time is 44066.015136 seconds.
+Model 10:
+Precision: 0.99133
+Accuracy: 0.89693
+F-Score: 0.93588
+Recall: 0.8863
+True Negative Rate: 0.95652
+TP: 343 FP: 3
+TN: 66 FN: 44
+Average over 10 models:
+Precision: 0.99736
+Accuracy: 0.89342           0           0           0           0           0           0           0           0           0
+F-Score: 0.93333
+Recall: 0.87703
+True Negative Rate: 0.98678
+TP: 340.2             0             0             0             0             0             0             0             0             0 FP: 0.9           0           0           0           0           0           0           0           0           0
+TN: 67.2            0            0            0            0            0            0            0            0            0 FN: 47.7            0            0            0            0            0            0            0            0            0
+[0 1; 1 0], polynomial HSV.
+dangerous bushes (1).jpeg
+dangerous bushes (101).jpeg
+dangerous bushes (11).jpeg
+dangerous bushes (21).jpeg
+dangerous bushes (31).jpeg
+dangerous bushes (41).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous grass water (1).jpeg
+dangerous water (1).jpeg
+dangerous water (101).jpeg
+dangerous water (11).jpeg
+dangerous water (111).jpeg
+dangerous water (181).jpeg
+dangerous water (251).jpeg
+dangerous water (321).jpeg
+dangerous water (331).jpeg
+dangerous water (371).jpeg
+dangerous water (441).jpeg
+dangerous water (461).jpeg
+dangerous water (481).jpeg
+dangerous water (491).jpeg
+dangerous water (511).jpeg
+dangerous water (81).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 36.866475 seconds.
+Model 1:
+Precision: 0.93705
+Accuracy: 0.94079
+F-Score: 0.96629
+Recall: 0.99742
+True Negative Rate: 0.61765
+TP: 387 FP: 26
+TN: 42 FN: 1
+dangerous bushes (102).jpeg
+dangerous bushes (12).jpeg
+dangerous bushes (2).jpeg
+dangerous bushes (22).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (42).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (102).jpeg
+dangerous water (112).jpeg
+dangerous water (12).jpeg
+dangerous water (182).jpeg
+dangerous water (332).jpeg
+dangerous water (372).jpeg
+dangerous water (412).jpeg
+dangerous water (442).jpeg
+dangerous water (462).jpeg
+dangerous water (482).jpeg
+dangerous water (492).jpeg
+dangerous water (502).jpeg
+dangerous water (82).jpeg
+dangerous water bushes (12).jpeg
+dangerous water bushes (2).jpeg
+dangerous water grass (2).jpeg
+Elapsed time is 56.267513 seconds.
+Model 2:
+Precision: 0.9372
+Accuracy: 0.94298
+F-Score: 0.96758
+Recall: 1
+True Negative Rate: 0.61765
+TP: 388 FP: 26
+TN: 42 FN: 0
+dangerous bushes (103).jpeg
+dangerous bushes (13).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (33).jpeg
+dangerous bushes (43).jpeg
+dangerous bushes (53).jpeg
+dangerous bushes (63).jpeg
+dangerous bushes (73).jpeg
+dangerous grass water (13).jpeg
+dangerous grass water (3).jpeg
+dangerous water (113).jpeg
+dangerous water (183).jpeg
+dangerous water (193).jpeg
+dangerous water (23).jpeg
+dangerous water (373).jpeg
+dangerous water (413).jpeg
+dangerous water (443).jpeg
+dangerous water (453).jpeg
+dangerous water (463).jpeg
+dangerous water (473).jpeg
+dangerous water (483).jpeg
+dangerous water (493).jpeg
+dangerous water (503).jpeg
+dangerous water bushes (13).jpeg
+dangerous water bushes (3).jpeg
+dangerous water grass (3).jpeg
+Elapsed time is 74.144856 seconds.
+Model 3:
+Precision: 0.93478
+Accuracy: 0.9386
+F-Score: 0.96509
+Recall: 0.99742
+True Negative Rate: 0.60294
+TP: 387 FP: 27
+TN: 41 FN: 1
+dangerous bushes (104).jpeg
+dangerous bushes (14).jpeg
+dangerous bushes (24).jpeg
+dangerous bushes (34).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous bushes (64).jpeg
+dangerous bushes (74).jpeg
+dangerous grass water (14).jpeg
+dangerous grass water (4).jpeg
+dangerous water (104).jpeg
+dangerous water (114).jpeg
+dangerous water (14).jpeg
+dangerous water (184).jpeg
+dangerous water (194).jpeg
+dangerous water (234).jpeg
+dangerous water (24).jpeg
+dangerous water (314).jpeg
+dangerous water (354).jpeg
+dangerous water (364).jpeg
+dangerous water (414).jpeg
+dangerous water (444).jpeg
+dangerous water (454).jpeg
+dangerous water (464).jpeg
+dangerous water (474).jpeg
+dangerous water (484).jpeg
+dangerous water (504).jpeg
+dangerous water (514).jpeg
+dangerous water (64).jpeg
+dangerous water (84).jpeg
+dangerous water (94).jpeg
+dangerous water bushes (14).jpeg
+dangerous water grass (4).jpeg
+Elapsed time is 95.308799 seconds.
+Model 4:
+Precision: 0.91943
+Accuracy: 0.92544
+F-Score: 0.95802
+Recall: 1
+True Negative Rate: 0.5
+TP: 388 FP: 34
+TN: 34 FN: 0
+dangerous bushes (105).jpeg
+dangerous bushes (15).jpeg
+dangerous bushes (25).jpeg
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (55).jpeg
+dangerous bushes (75).jpeg
+dangerous grass water (15).jpeg
+dangerous grass water (5).jpeg
+dangerous water (15).jpeg
+dangerous water (185).jpeg
+dangerous water (235).jpeg
+dangerous water (245).jpeg
+dangerous water (305).jpeg
+dangerous water (35).jpeg
+dangerous water (355).jpeg
+dangerous water (365).jpeg
+dangerous water (465).jpeg
+dangerous water (475).jpeg
+dangerous water (485).jpeg
+dangerous water (505).jpeg
+dangerous water (85).jpeg
+dangerous water bushes (15).jpeg
+dangerous water bushes (5).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 114.899850 seconds.
+Model 5:
+Precision: 0.93705
+Accuracy: 0.94079
+F-Score: 0.96629
+Recall: 0.99742
+True Negative Rate: 0.61765
+TP: 387 FP: 26
+TN: 42 FN: 1
+dangerous bushes (106).jpeg
+dangerous bushes (16).jpeg
+dangerous bushes (26).jpeg
+dangerous bushes (36).jpeg
+dangerous bushes (46).jpeg
+dangerous bushes (56).jpeg
+dangerous bushes (6).jpeg
+dangerous bushes (66).jpeg
+dangerous bushes (76).jpeg
+dangerous bushes (96).jpeg
+dangerous grass water (16).jpeg
+dangerous grass water (6).jpeg
+dangerous water (106).jpeg
+dangerous water (16).jpeg
+dangerous water (176).jpeg
+dangerous water (186).jpeg
+dangerous water (196).jpeg
+dangerous water (246).jpeg
+dangerous water (356).jpeg
+dangerous water (366).jpeg
+dangerous water (436).jpeg
+dangerous water (46).jpeg
+dangerous water (466).jpeg
+dangerous water (476).jpeg
+dangerous water (486).jpeg
+dangerous water (506).jpeg
+dangerous water (76).jpeg
+dangerous water (96).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 139.841185 seconds.
+Model 6:
+Precision: 0.92806
+Accuracy: 0.93202
+F-Score: 0.96149
+Recall: 0.99742
+True Negative Rate: 0.55882
+TP: 387 FP: 30
+TN: 38 FN: 1
+dangerous bushes (107).jpeg
+dangerous bushes (17).jpeg
+dangerous bushes (27).jpeg
+dangerous bushes (37).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (57).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (77).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous grass water (7).jpeg
+dangerous water (107).jpeg
+dangerous water (177).jpeg
+dangerous water (187).jpeg
+dangerous water (197).jpeg
+dangerous water (257).jpeg
+dangerous water (327).jpeg
+dangerous water (357).jpeg
+dangerous water (367).jpeg
+dangerous water (437).jpeg
+dangerous water (447).jpeg
+dangerous water (457).jpeg
+dangerous water (467).jpeg
+dangerous water (47).jpeg
+dangerous water (487).jpeg
+dangerous water (517).jpeg
+dangerous water (57).jpeg
+dangerous water (7).jpeg
+dangerous water bushes (17).jpeg
+dangerous water bushes (7).jpeg
+dangerous water grass (7).jpeg
+Elapsed time is 159.267328 seconds.
+Model 7:
+Precision: 0.92381
+Accuracy: 0.92982
+F-Score: 0.9604
+Recall: 1
+True Negative Rate: 0.52941
+TP: 388 FP: 32
+TN: 36 FN: 0
+dangerous bushes (108).jpeg
+dangerous bushes (18).jpeg
+dangerous bushes (28).jpeg
+dangerous bushes (38).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (58).jpeg
+dangerous bushes (68).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous grass water (8).jpeg
+dangerous water (138).jpeg
+dangerous water (178).jpeg
+dangerous water (188).jpeg
+dangerous water (198).jpeg
+dangerous water (258).jpeg
+dangerous water (308).jpeg
+dangerous water (318).jpeg
+dangerous water (328).jpeg
+dangerous water (358).jpeg
+dangerous water (368).jpeg
+dangerous water (378).jpeg
+dangerous water (438).jpeg
+dangerous water (458).jpeg
+dangerous water (468).jpeg
+dangerous water (48).jpeg
+dangerous water (518).jpeg
+dangerous water (58).jpeg
+dangerous water (8).jpeg
+dangerous water (98).jpeg
+dangerous water bushes (18).jpeg
+dangerous water bushes (8).jpeg
+dangerous water grass (8).jpeg
+Elapsed time is 180.590229 seconds.
+Model 8:
+Precision: 0.92143
+Accuracy: 0.92544
+F-Score: 0.95792
+Recall: 0.99742
+True Negative Rate: 0.51471
+TP: 387 FP: 33
+TN: 35 FN: 1
+dangerous bushes (109).jpeg
+dangerous bushes (19).jpeg
+dangerous bushes (29).jpeg
+dangerous bushes (39).jpeg
+dangerous bushes (49).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (69).jpeg
+dangerous bushes (89).jpeg
+dangerous bushes (9).jpeg
+dangerous bushes (99).jpeg
+dangerous grass water (9).jpeg
+dangerous water (179).jpeg
+dangerous water (189).jpeg
+dangerous water (319).jpeg
+dangerous water (329).jpeg
+dangerous water (389).jpeg
+dangerous water (439).jpeg
+dangerous water (449).jpeg
+dangerous water (459).jpeg
+dangerous water (469).jpeg
+dangerous water (489).jpeg
+dangerous water (79).jpeg
+dangerous water (9).jpeg
+dangerous water (99).jpeg
+dangerous water bushes (9).jpeg
+dangerous water difficult (1).jpeg
+dangerous water difficult (3).jpeg
+dangerous water grass (9).jpeg
+Elapsed time is 211.690557 seconds.
+Model 9:
+Precision: 0.93269
+Accuracy: 0.9386
+F-Score: 0.96517
+Recall: 1
+True Negative Rate: 0.58824
+TP: 388 FP: 28
+TN: 40 FN: 0
+dangerous bushes (10).jpeg
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (30).jpeg
+dangerous bushes (40).jpeg
+dangerous bushes (50).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes (70).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous water (100).jpeg
+dangerous water (110).jpeg
+dangerous water (180).jpeg
+dangerous water (190).jpeg
+dangerous water (250).jpeg
+dangerous water (260).jpeg
+dangerous water (320).jpeg
+dangerous water (330).jpeg
+dangerous water (360).jpeg
+dangerous water (40).jpeg
+dangerous water (420).jpeg
+dangerous water (440).jpeg
+dangerous water (460).jpeg
+dangerous water (470).jpeg
+dangerous water (490).jpeg
+dangerous water (90).jpeg
+dangerous water difficult (2).jpeg
+dangerous water difficult (4).jpeg
+dangerous water grass (0).jpeg
+Elapsed time is 243.034166 seconds.
+Model 10:
+Precision: 0.92806
+Accuracy: 0.93421
+F-Score: 0.96269
+Recall: 1
+True Negative Rate: 0.56522
+TP: 387 FP: 30
+TN: 39 FN: 0
+Average over 10 models:
+Precision: 0.92991
+Accuracy: 0.93487           0           0           0           0           0           0           0           0           0
+F-Score: 0.96308
+Recall: 0.99871
+True Negative Rate: 0.57122
+TP: 387.4             0             0             0             0             0             0             0             0             0 FP: 29.2            0            0            0            0            0            0            0            0            0
+TN: 38.9            0            0            0            0            0            0            0            0            0 FN: 0.5           0           0           0           0           0           0           0           0           0
+[0 1702; 16 0], polynomial HSV.
+dangerous bushes (1).jpeg
+dangerous bushes (101).jpeg
+dangerous bushes (11).jpeg
+dangerous bushes (21).jpeg
+dangerous bushes (31).jpeg
+dangerous bushes (41).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous grass water (1).jpeg
+dangerous water (1).jpeg
+dangerous water (101).jpeg
+dangerous water (11).jpeg
+dangerous water (111).jpeg
+dangerous water (181).jpeg
+dangerous water (251).jpeg
+dangerous water (321).jpeg
+dangerous water (331).jpeg
+dangerous water (371).jpeg
+dangerous water (441).jpeg
+dangerous water (461).jpeg
+dangerous water (481).jpeg
+dangerous water (491).jpeg
+dangerous water (511).jpeg
+dangerous water (81).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 130.986403 seconds.
+Model 1:
+Precision: 0.93705
+Accuracy: 0.94079
+F-Score: 0.96629
+Recall: 0.99742
+True Negative Rate: 0.61765
+TP: 387 FP: 26
+TN: 42 FN: 1
+dangerous bushes (102).jpeg
+dangerous bushes (12).jpeg
+dangerous bushes (2).jpeg
+dangerous bushes (22).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (42).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (102).jpeg
+dangerous water (112).jpeg
+dangerous water (12).jpeg
+dangerous water (182).jpeg
+dangerous water (332).jpeg
+dangerous water (372).jpeg
+dangerous water (412).jpeg
+dangerous water (442).jpeg
+dangerous water (462).jpeg
+dangerous water (482).jpeg
+dangerous water (492).jpeg
+dangerous water (502).jpeg
+dangerous water (82).jpeg
+dangerous water bushes (12).jpeg
+dangerous water bushes (2).jpeg
+dangerous water grass (2).jpeg
+Elapsed time is 195.883468 seconds.
+Model 2:
+Precision: 0.9372
+Accuracy: 0.94298
+F-Score: 0.96758
+Recall: 1
+True Negative Rate: 0.61765
+TP: 388 FP: 26
+TN: 42 FN: 0
+dangerous bushes (103).jpeg
+dangerous bushes (13).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (33).jpeg
+dangerous bushes (43).jpeg
+dangerous bushes (53).jpeg
+dangerous bushes (63).jpeg
+dangerous bushes (73).jpeg
+dangerous grass water (13).jpeg
+dangerous grass water (3).jpeg
+dangerous water (113).jpeg
+dangerous water (183).jpeg
+dangerous water (193).jpeg
+dangerous water (23).jpeg
+dangerous water (373).jpeg
+dangerous water (413).jpeg
+dangerous water (443).jpeg
+dangerous water (453).jpeg
+dangerous water (463).jpeg
+dangerous water (473).jpeg
+dangerous water (483).jpeg
+dangerous water (493).jpeg
+dangerous water (503).jpeg
+dangerous water bushes (13).jpeg
+dangerous water bushes (3).jpeg
+dangerous water grass (3).jpeg
+Elapsed time is 228.298762 seconds.
+Model 3:
+Precision: 0.93478
+Accuracy: 0.9386
+F-Score: 0.96509
+Recall: 0.99742
+True Negative Rate: 0.60294
+TP: 387 FP: 27
+TN: 41 FN: 1
+dangerous bushes (104).jpeg
+dangerous bushes (14).jpeg
+dangerous bushes (24).jpeg
+dangerous bushes (34).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous bushes (64).jpeg
+dangerous bushes (74).jpeg
+dangerous grass water (14).jpeg
+dangerous grass water (4).jpeg
+dangerous water (104).jpeg
+dangerous water (114).jpeg
+dangerous water (14).jpeg
+dangerous water (184).jpeg
+dangerous water (194).jpeg
+dangerous water (234).jpeg
+dangerous water (24).jpeg
+dangerous water (314).jpeg
+dangerous water (354).jpeg
+dangerous water (364).jpeg
+dangerous water (414).jpeg
+dangerous water (444).jpeg
+dangerous water (454).jpeg
+dangerous water (464).jpeg
+dangerous water (474).jpeg
+dangerous water (484).jpeg
+dangerous water (504).jpeg
+dangerous water (514).jpeg
+dangerous water (64).jpeg
+dangerous water (84).jpeg
+dangerous water (94).jpeg
+dangerous water bushes (14).jpeg
+dangerous water grass (4).jpeg
+Elapsed time is 252.436623 seconds.
+Model 4:
+Precision: 0.91943
+Accuracy: 0.92544
+F-Score: 0.95802
+Recall: 1
+True Negative Rate: 0.5
+TP: 388 FP: 34
+TN: 34 FN: 0
+dangerous bushes (105).jpeg
+dangerous bushes (15).jpeg
+dangerous bushes (25).jpeg
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (55).jpeg
+dangerous bushes (75).jpeg
+dangerous grass water (15).jpeg
+dangerous grass water (5).jpeg
+dangerous water (15).jpeg
+dangerous water (185).jpeg
+dangerous water (235).jpeg
+dangerous water (245).jpeg
+dangerous water (305).jpeg
+dangerous water (35).jpeg
+dangerous water (355).jpeg
+dangerous water (365).jpeg
+dangerous water (465).jpeg
+dangerous water (475).jpeg
+dangerous water (485).jpeg
+dangerous water (505).jpeg
+dangerous water (85).jpeg
+dangerous water bushes (15).jpeg
+dangerous water bushes (5).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 275.226064 seconds.
+Model 5:
+Precision: 0.93705
+Accuracy: 0.94079
+F-Score: 0.96629
+Recall: 0.99742
+True Negative Rate: 0.61765
+TP: 387 FP: 26
+TN: 42 FN: 1
+dangerous bushes (106).jpeg
+dangerous bushes (16).jpeg
+dangerous bushes (26).jpeg
+dangerous bushes (36).jpeg
+dangerous bushes (46).jpeg
+dangerous bushes (56).jpeg
+dangerous bushes (6).jpeg
+dangerous bushes (66).jpeg
+dangerous bushes (76).jpeg
+dangerous bushes (96).jpeg
+dangerous grass water (16).jpeg
+dangerous grass water (6).jpeg
+dangerous water (106).jpeg
+dangerous water (16).jpeg
+dangerous water (176).jpeg
+dangerous water (186).jpeg
+dangerous water (196).jpeg
+dangerous water (246).jpeg
+dangerous water (356).jpeg
+dangerous water (366).jpeg
+dangerous water (436).jpeg
+dangerous water (46).jpeg
+dangerous water (466).jpeg
+dangerous water (476).jpeg
+dangerous water (486).jpeg
+dangerous water (506).jpeg
+dangerous water (76).jpeg
+dangerous water (96).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 297.844624 seconds.
+Model 6:
+Precision: 0.92806
+Accuracy: 0.93202
+F-Score: 0.96149
+Recall: 0.99742
+True Negative Rate: 0.55882
+TP: 387 FP: 30
+TN: 38 FN: 1
+dangerous bushes (107).jpeg
+dangerous bushes (17).jpeg
+dangerous bushes (27).jpeg
+dangerous bushes (37).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (57).jpeg
+dangerous bushes (67).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (77).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous grass water (7).jpeg
+dangerous water (107).jpeg
+dangerous water (177).jpeg
+dangerous water (187).jpeg
+dangerous water (197).jpeg
+dangerous water (257).jpeg
+dangerous water (327).jpeg
+dangerous water (357).jpeg
+dangerous water (367).jpeg
+dangerous water (437).jpeg
+dangerous water (447).jpeg
+dangerous water (457).jpeg
+dangerous water (467).jpeg
+dangerous water (47).jpeg
+dangerous water (487).jpeg
+dangerous water (517).jpeg
+dangerous water (57).jpeg
+dangerous water (7).jpeg
+dangerous water bushes (17).jpeg
+dangerous water bushes (7).jpeg
+dangerous water grass (7).jpeg
+Elapsed time is 319.014559 seconds.
+Model 7:
+Precision: 0.92381
+Accuracy: 0.92982
+F-Score: 0.9604
+Recall: 1
+True Negative Rate: 0.52941
+TP: 388 FP: 32
+TN: 36 FN: 0
+dangerous bushes (108).jpeg
+dangerous bushes (18).jpeg
+dangerous bushes (28).jpeg
+dangerous bushes (38).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (58).jpeg
+dangerous bushes (68).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous grass water (8).jpeg
+dangerous water (138).jpeg
+dangerous water (178).jpeg
+dangerous water (188).jpeg
+dangerous water (198).jpeg
+dangerous water (258).jpeg
+dangerous water (308).jpeg
+dangerous water (318).jpeg
+dangerous water (328).jpeg
+dangerous water (358).jpeg
+dangerous water (368).jpeg
+dangerous water (378).jpeg
+dangerous water (438).jpeg
+dangerous water (458).jpeg
+dangerous water (468).jpeg
+dangerous water (48).jpeg
+dangerous water (518).jpeg
+dangerous water (58).jpeg
+dangerous water (8).jpeg
+dangerous water (98).jpeg
+dangerous water bushes (18).jpeg
+dangerous water bushes (8).jpeg
+dangerous water grass (8).jpeg
+Elapsed time is 341.280839 seconds.
+Model 8:
+Precision: 0.92143
+Accuracy: 0.92544
+F-Score: 0.95792
+Recall: 0.99742
+True Negative Rate: 0.51471
+TP: 387 FP: 33
+TN: 35 FN: 1
+dangerous bushes (109).jpeg
+dangerous bushes (19).jpeg
+dangerous bushes (29).jpeg
+dangerous bushes (39).jpeg
+dangerous bushes (49).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (69).jpeg
+dangerous bushes (89).jpeg
+dangerous bushes (9).jpeg
+dangerous bushes (99).jpeg
+dangerous grass water (9).jpeg
+dangerous water (179).jpeg
+dangerous water (189).jpeg
+dangerous water (319).jpeg
+dangerous water (329).jpeg
+dangerous water (389).jpeg
+dangerous water (439).jpeg
+dangerous water (449).jpeg
+dangerous water (459).jpeg
+dangerous water (469).jpeg
+dangerous water (489).jpeg
+dangerous water (79).jpeg
+dangerous water (9).jpeg
+dangerous water (99).jpeg
+dangerous water bushes (9).jpeg
+dangerous water difficult (1).jpeg
+dangerous water difficult (3).jpeg
+dangerous water grass (9).jpeg
+Elapsed time is 377.099852 seconds.
+Model 9:
+Precision: 0.93269
+Accuracy: 0.9386
+F-Score: 0.96517
+Recall: 1
+True Negative Rate: 0.58824
+TP: 388 FP: 28
+TN: 40 FN: 0
+dangerous bushes (10).jpeg
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (30).jpeg
+dangerous bushes (40).jpeg
+dangerous bushes (50).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes (70).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous water (100).jpeg
+dangerous water (110).jpeg
+dangerous water (180).jpeg
+dangerous water (190).jpeg
+dangerous water (250).jpeg
+dangerous water (260).jpeg
+dangerous water (320).jpeg
+dangerous water (330).jpeg
+dangerous water (360).jpeg
+dangerous water (40).jpeg
+dangerous water (420).jpeg
+dangerous water (440).jpeg
+dangerous water (460).jpeg
+dangerous water (470).jpeg
+dangerous water (490).jpeg
+dangerous water (90).jpeg
+dangerous water difficult (2).jpeg
+dangerous water difficult (4).jpeg
+dangerous water grass (0).jpeg
+Elapsed time is 399.576358 seconds.
+Model 10:
+Precision: 0.92806
+Accuracy: 0.93421
+F-Score: 0.96269
+Recall: 1
+True Negative Rate: 0.56522
+TP: 387 FP: 30
+TN: 39 FN: 0
+Average over 10 models:
+Precision: 0.92991
+Accuracy: 0.93487           0           0           0           0           0           0           0           0           0
+F-Score: 0.96308
+Recall: 0.99871
+True Negative Rate: 0.57122
+TP: 387.4             0             0             0             0             0             0             0             0             0 FP: 29.2            0            0            0            0            0            0            0            0            0
+TN: 38.9            0            0            0            0            0            0            0            0            0 FN: 0.5           0           0           0           0           0           0           0           0           0
+[0 1; 1 0], linear, HSV
+dangerous bushes (1).jpeg
+dangerous bushes (11).jpeg
+dangerous bushes (31).jpeg
+dangerous bushes (41).jpeg
+dangerous bushes (51).jpeg
+dangerous bushes (61).jpeg
+dangerous bushes (71).jpeg
+dangerous grass water (1).jpeg
+dangerous water (1).jpeg
+dangerous water (11).jpeg
+dangerous water (181).jpeg
+dangerous water (31).jpeg
+dangerous water (321).jpeg
+dangerous water (441).jpeg
+dangerous water (461).jpeg
+dangerous water (491).jpeg
+dangerous water grass (1).jpeg
+Elapsed time is 6.463523 seconds.
+Model 1:
+Precision: 0.95674
+Accuracy: 0.9364
+F-Score: 0.96287
+Recall: 0.96907
+True Negative Rate: 0.75
+TP: 376 FP: 17
+TN: 51 FN: 12
+dangerous bushes (102).jpeg
+dangerous bushes (12).jpeg
+dangerous bushes (2).jpeg
+dangerous bushes (22).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (52).jpeg
+dangerous bushes (62).jpeg
+dangerous bushes (72).jpeg
+dangerous bushes (82).jpeg
+dangerous bushes (92).jpeg
+dangerous grass water (2).jpeg
+dangerous water (102).jpeg
+dangerous water (112).jpeg
+dangerous water (182).jpeg
+dangerous water (32).jpeg
+dangerous water (332).jpeg
+dangerous water (372).jpeg
+dangerous water (382).jpeg
+dangerous water (442).jpeg
+dangerous water (462).jpeg
+dangerous water (482).jpeg
+dangerous water (492).jpeg
+dangerous water (82).jpeg
+dangerous water grass (2).jpeg
+Elapsed time is 15.874149 seconds.
+Model 2:
+Precision: 0.94015
+Accuracy: 0.92325
+F-Score: 0.95564
+Recall: 0.97165
+True Negative Rate: 0.64706
+TP: 377 FP: 24
+TN: 44 FN: 11
+dangerous bushes (103).jpeg
+dangerous bushes (13).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (43).jpeg
+dangerous bushes (53).jpeg
+dangerous bushes (63).jpeg
+dangerous bushes (73).jpeg
+dangerous bushes (83).jpeg
+dangerous grass water (13).jpeg
+dangerous grass water (3).jpeg
+dangerous water (113).jpeg
+dangerous water (183).jpeg
+dangerous water (213).jpeg
+dangerous water (373).jpeg
+dangerous water (453).jpeg
+dangerous water (463).jpeg
+dangerous water (513).jpeg
+dangerous water grass (3).jpeg
+Elapsed time is 25.995452 seconds.
+Model 3:
+Precision: 0.95202
+Accuracy: 0.93421
+F-Score: 0.96173
+Recall: 0.97165
+True Negative Rate: 0.72059
+TP: 377 FP: 19
+TN: 49 FN: 11
+dangerous bushes (24).jpeg
+dangerous bushes (34).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous bushes (64).jpeg
+dangerous bushes (74).jpeg
+dangerous bushes (84).jpeg
+dangerous grass water (14).jpeg
+dangerous grass water (4).jpeg
+dangerous water (114).jpeg
+dangerous water (184).jpeg
+dangerous water (234).jpeg
+dangerous water (304).jpeg
+dangerous water (314).jpeg
+dangerous water (354).jpeg
+dangerous water (374).jpeg
+dangerous water (454).jpeg
+dangerous water (464).jpeg
+dangerous water (94).jpeg
+dangerous water bushes (14).jpeg
+Elapsed time is 32.533440 seconds.
+Model 4:
+Precision: 0.94737
+Accuracy: 0.93202
+F-Score: 0.96061
+Recall: 0.97423
+True Negative Rate: 0.69118
+TP: 378 FP: 21
+TN: 47 FN: 10
+dangerous bushes (105).jpeg
+dangerous bushes (15).jpeg
+dangerous bushes (25).jpeg
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (55).jpeg
+dangerous bushes (75).jpeg
+dangerous bushes (85).jpeg
+dangerous grass water (15).jpeg
+dangerous grass water (5).jpeg
+dangerous water (185).jpeg
+dangerous water (235).jpeg
+dangerous water (305).jpeg
+dangerous water (355).jpeg
+dangerous water (465).jpeg
+dangerous water (85).jpeg
+dangerous water bushes (15).jpeg
+dangerous water grass (5).jpeg
+Elapsed time is 38.369544 seconds.
+Model 5:
+Precision: 0.95178
+Accuracy: 0.92982
+F-Score: 0.95908
+Recall: 0.96649
+True Negative Rate: 0.72059
+TP: 375 FP: 19
+TN: 49 FN: 13
+dangerous bushes (106).jpeg
+dangerous bushes (16).jpeg
+dangerous bushes (26).jpeg
+dangerous bushes (46).jpeg
+dangerous bushes (76).jpeg
+dangerous grass water (16).jpeg
+dangerous grass water (6).jpeg
+dangerous water (236).jpeg
+dangerous water (356).jpeg
+dangerous water (456).jpeg
+dangerous water (46).jpeg
+dangerous water (506).jpeg
+dangerous water (76).jpeg
+dangerous water (86).jpeg
+dangerous water bushes (16).jpeg
+dangerous water grass (6).jpeg
+Elapsed time is 44.693724 seconds.
+Model 6:
+Precision: 0.95939
+Accuracy: 0.94298
+F-Score: 0.96675
+Recall: 0.97423
+True Negative Rate: 0.76471
+TP: 378 FP: 16
+TN: 52 FN: 10
+dangerous bushes (107).jpeg
+dangerous bushes (27).jpeg
+dangerous bushes (37).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (57).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous grass water (7).jpeg
+dangerous water (117).jpeg
+dangerous water (157).jpeg
+dangerous water (197).jpeg
+dangerous water (307).jpeg
+dangerous water (327).jpeg
+dangerous water (337).jpeg
+dangerous water (357).jpeg
+dangerous water (377).jpeg
+dangerous water (437).jpeg
+dangerous water (467).jpeg
+dangerous water (47).jpeg
+dangerous water (7).jpeg
+dangerous water bushes (17).jpeg
+dangerous water bushes (7).jpeg
+Elapsed time is 50.801763 seconds.
+Model 7:
+Precision: 0.94279
+Accuracy: 0.92982
+F-Score: 0.95949
+Recall: 0.9768
+True Negative Rate: 0.66176
+TP: 379 FP: 23
+TN: 45 FN: 9
+dangerous bushes (18).jpeg
+dangerous bushes (28).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (58).jpeg
+dangerous bushes (68).jpeg
+dangerous bushes (78).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous grass water (8).jpeg
+dangerous water (138).jpeg
+dangerous water (198).jpeg
+dangerous water (308).jpeg
+dangerous water (328).jpeg
+dangerous water (378).jpeg
+dangerous water (388).jpeg
+dangerous water (468).jpeg
+dangerous water (48).jpeg
+dangerous water (488).jpeg
+dangerous water (58).jpeg
+dangerous water bushes (18).jpeg
+Elapsed time is 59.963877 seconds.
+Model 8:
+Precision: 0.94684
+Accuracy: 0.92325
+F-Score: 0.9553
+Recall: 0.96392
+True Negative Rate: 0.69118
+TP: 374 FP: 21
+TN: 47 FN: 14
+dangerous bushes (109).jpeg
+dangerous bushes (19).jpeg
+dangerous bushes (49).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (9).jpeg
+dangerous bushes (99).jpeg
+dangerous grass water (9).jpeg
+dangerous water (119).jpeg
+dangerous water (179).jpeg
+dangerous water (199).jpeg
+dangerous water (329).jpeg
+dangerous water (379).jpeg
+dangerous water (439).jpeg
+dangerous water (459).jpeg
+dangerous water (489).jpeg
+dangerous water (509).jpeg
+dangerous water bushes (9).jpeg
+dangerous water difficult (3).jpeg
+Elapsed time is 72.885717 seconds.
+Model 9:
+Precision: 0.95477
+Accuracy: 0.94298
+F-Score: 0.96692
+Recall: 0.97938
+True Negative Rate: 0.73529
+TP: 380 FP: 18
+TN: 50 FN: 8
+dangerous bushes (10).jpeg
+dangerous bushes (100).jpeg
+dangerous bushes (20).jpeg
+dangerous bushes (30).jpeg
+dangerous bushes (40).jpeg
+dangerous bushes (50).jpeg
+dangerous bushes (60).jpeg
+dangerous bushes (70).jpeg
+dangerous bushes grass 0.jpeg
+dangerous grass bushes 0.jpeg
+dangerous grass water (0).jpeg
+dangerous grass water (10).jpeg
+dangerous water (100).jpeg
+dangerous water (110).jpeg
+dangerous water (180).jpeg
+dangerous water (190).jpeg
+dangerous water (250).jpeg
+dangerous water (260).jpeg
+dangerous water (320).jpeg
+dangerous water (360).jpeg
+dangerous water (380).jpeg
+dangerous water (430).jpeg
+dangerous water (440).jpeg
+dangerous water (460).jpeg
+dangerous water (480).jpeg
+dangerous water bushes (10).jpeg
+dangerous water difficult (2).jpeg
+Elapsed time is 78.514483 seconds.
+Model 10:
+Precision: 0.933
+Accuracy: 0.91667
+F-Score: 0.9519
+Recall: 0.97158
+True Negative Rate: 0.6087
+TP: 376 FP: 27
+TN: 42 FN: 11
+Average over 10 models:
+Precision: 0.94843
+Accuracy: 0.93114           0           0           0           0           0           0           0           0           0
+F-Score: 0.96002
+Recall: 0.9719
+True Negative Rate: 0.69897
+TP: 377    0    0    0    0    0    0    0    0    0 FP: 20.5            0            0            0            0            0            0            0            0            0
+TN: 47.6            0            0            0            0            0            0            0            0            0 FN: 10.9            0            0            0            0            0            0            0            0            0
+[0 1702; 16 0], linear HSV.
+dangerous bushes (11).jpeg
+dangerous bushes (71).jpeg
+dangerous water (1).jpeg
+dangerous water (181).jpeg
+dangerous water (321).jpeg
+Elapsed time is 24.885013 seconds.
+Model 1:
+Precision: 0.98288
+Accuracy: 0.76754
+F-Score: 0.84412
+Recall: 0.73969
+True Negative Rate: 0.92647
+TP: 287 FP: 5
+TN: 63 FN: 101
+dangerous bushes (2).jpeg
+dangerous bushes (32).jpeg
+dangerous bushes (72).jpeg
+dangerous grass water (2).jpeg
+dangerous water (102).jpeg
+dangerous water (182).jpeg
+dangerous water (332).jpeg
+Elapsed time is 72.170528 seconds.
+Model 2:
+Precision: 0.97603
+Accuracy: 0.75877
+F-Score: 0.83824
+Recall: 0.73454
+True Negative Rate: 0.89706
+TP: 285 FP: 7
+TN: 61 FN: 103
+dangerous bushes (103).jpeg
+dangerous bushes (23).jpeg
+dangerous bushes (3).jpeg
+dangerous bushes (53).jpeg
+dangerous grass water (3).jpeg
+dangerous water (113).jpeg
+dangerous water (183).jpeg
+dangerous water (453).jpeg
+dangerous water (463).jpeg
+dangerous water grass (3).jpeg
+Elapsed time is 131.612398 seconds.
+Model 3:
+Precision: 0.96633
+Accuracy: 0.75658
+F-Score: 0.83796
+Recall: 0.73969
+True Negative Rate: 0.85294
+TP: 287 FP: 10
+TN: 58 FN: 101
+dangerous bushes (34).jpeg
+dangerous bushes (4).jpeg
+dangerous bushes (44).jpeg
+dangerous bushes (54).jpeg
+dangerous grass water (14).jpeg
+dangerous water (234).jpeg
+dangerous water (464).jpeg
+dangerous water (54).jpeg
+dangerous water (94).jpeg
+Elapsed time is 248.666337 seconds.
+Model 4:
+Precision: 0.96928
+Accuracy: 0.75219
+F-Score: 0.83407
+Recall: 0.73196
+True Negative Rate: 0.86765
+TP: 284 FP: 9
+TN: 59 FN: 104
+dangerous bushes (35).jpeg
+dangerous bushes (45).jpeg
+dangerous bushes (5).jpeg
+dangerous bushes (75).jpeg
+dangerous grass water (15).jpeg
+dangerous water (235).jpeg
+dangerous water (355).jpeg
+Elapsed time is 276.389495 seconds.
+Model 5:
+Precision: 0.97578
+Accuracy: 0.75219
+F-Score: 0.83309
+Recall: 0.7268
+True Negative Rate: 0.89706
+TP: 282 FP: 7
+TN: 61 FN: 106
+dangerous bushes (106).jpeg
+dangerous water (506).jpeg
+Elapsed time is 290.578869 seconds.
+Model 6:
+Precision: 0.99286
+Accuracy: 0.75439
+F-Score: 0.83234
+Recall: 0.71649
+True Negative Rate: 0.97059
+TP: 278 FP: 2
+TN: 66 FN: 110
+dangerous bushes (107).jpeg
+dangerous bushes (47).jpeg
+dangerous bushes (57).jpeg
+dangerous bushes (7).jpeg
+dangerous bushes (97).jpeg
+dangerous grass water (17).jpeg
+dangerous water (327).jpeg
+dangerous water (357).jpeg
+dangerous water (437).jpeg
+dangerous water (467).jpeg
+dangerous water bushes (17).jpeg
+Elapsed time is 404.473397 seconds.
+Model 7:
+Precision: 0.96393
+Accuracy: 0.76974
+F-Score: 0.84848
+Recall: 0.75773
+True Negative Rate: 0.83824
+TP: 294 FP: 11
+TN: 57 FN: 94
+dangerous bushes (28).jpeg
+dangerous bushes (48).jpeg
+dangerous bushes (8).jpeg
+dangerous bushes (98).jpeg
+dangerous grass water (18).jpeg
+dangerous grass water (8).jpeg
+dangerous water (308).jpeg
+dangerous water (328).jpeg
+dangerous water (48).jpeg
+dangerous water (488).jpeg
+dangerous water bushes (18).jpeg
+Elapsed time is 422.700626 seconds.
+Model 8:
+Precision: 0.96474
+Accuracy: 0.78509
+F-Score: 0.86
+Recall: 0.77577
+True Negative Rate: 0.83824
+TP: 301 FP: 11
+TN: 57 FN: 87
+dangerous bushes (49).jpeg
+dangerous bushes (59).jpeg
+dangerous bushes (99).jpeg
+dangerous water (179).jpeg
+dangerous water (439).jpeg
+dangerous water (459).jpeg
+dangerous water (489).jpeg
+dangerous water difficult (3).jpeg
+Elapsed time is 441.884632 seconds.
+Model 9:
+Precision: 0.97368
+Accuracy: 0.7807
+F-Score: 0.85549
+Recall: 0.76289
+True Negative Rate: 0.88235
+TP: 296 FP: 8
+TN: 60 FN: 92
+dangerous bushes (20).jpeg
+dangerous bushes (30).jpeg
+dangerous bushes (40).jpeg
+dangerous bushes grass 0.jpeg
+dangerous water (180).jpeg
+dangerous water (190).jpeg
+dangerous water (320).jpeg
+dangerous water (440).jpeg
+dangerous water (480).jpeg
+Elapsed time is 504.090178 seconds.
+Model 10:
+Precision: 0.97097
+Accuracy: 0.79167
+F-Score: 0.8637
+Recall: 0.77778
+True Negative Rate: 0.86957
+TP: 301 FP: 9
+TN: 60 FN: 86
+Average over 10 models:
+Precision: 0.97344
+Accuracy: 0.76689           0           0           0           0           0           0           0           0           0
+F-Score: 0.84489
+Recall: 0.74633
+True Negative Rate: 0.88399
+TP: 289.5             0             0             0             0             0             0             0             0             0 FP: 7.9           0           0           0           0           0           0           0           0           0
+TN: 60.2            0            0            0            0            0            0            0            0            0 FN: 98.4            0            0            0            0            0            0            0            0            0
